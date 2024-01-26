@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+OHRM Login test suite,Chrome 120.0.0.0,,,26-01-2024 16:28:50,26-01-2024 16:29:06,16.877s,PASSED
+,,,,,,,
+Test Cases/Orange HRM LOGIN INVALID INPUT,Chrome 120.0.0.0,,,26-01-2024 16:28:50,26-01-2024 16:28:59,8.997s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,26-01-2024 16:28:50,26-01-2024 16:28:52,2.109s,PASSED
+"navigateToUrl(""https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"")",Chrome 120.0.0.0,,,26-01-2024 16:28:52,26-01-2024 16:28:57,4.372s,PASSED
+"click(findTestObject(""Object Repository/Orange HRM invalid input/Page_OrangeHRM/input_username""))",Chrome 120.0.0.0,,,26-01-2024 16:28:57,26-01-2024 16:28:58,1.089s,PASSED
+"click(findTestObject(""Object Repository/Orange HRM invalid input/Page_OrangeHRM/button_Login""))",Chrome 120.0.0.0,,,26-01-2024 16:28:58,26-01-2024 16:28:58,0.345s,PASSED
+"verifyElementPresent(findTestObject(""Orange HRM invalid input/Page_OrangeHRM/span_Required""), 3)",Chrome 120.0.0.0,,,26-01-2024 16:28:58,26-01-2024 16:28:58,0.476s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,26-01-2024 16:28:58,26-01-2024 16:28:59,0.314s,PASSED
+,,,,,,,
+Test Cases/Orange HRM login valid input,Chrome 120.0.0.0,,,26-01-2024 16:28:59,26-01-2024 16:29:06,7.654s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,26-01-2024 16:28:59,26-01-2024 16:29:00,0.861s,PASSED
+"navigateToUrl(""https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"")",Chrome 120.0.0.0,,,26-01-2024 16:29:00,26-01-2024 16:29:04,3.900s,PASSED
+"click(findTestObject(""Object Repository/Orange HRM login valid input/Page_OrangeHRM/p_Username  Admin""))",Chrome 120.0.0.0,,,26-01-2024 16:29:04,26-01-2024 16:29:05,1.018s,PASSED
+"setText(findTestObject(""Object Repository/Orange HRM login valid input/Page_OrangeHRM/input_username""), ""Admin"")",Chrome 120.0.0.0,,,26-01-2024 16:29:05,26-01-2024 16:29:05,0.720s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Orange HRM login valid input/Page_OrangeHRM/input_password""), ""hUKwJTbofgPU9eVlw/CnDQ=="")",Chrome 120.0.0.0,,,26-01-2024 16:29:05,26-01-2024 16:29:06,0.445s,PASSED
+"click(findTestObject(""Object Repository/Orange HRM login valid input/Page_OrangeHRM/button_Login""))",Chrome 120.0.0.0,,,26-01-2024 16:29:06,26-01-2024 16:29:06,0.337s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,26-01-2024 16:29:06,26-01-2024 16:29:06,0.296s,PASSED
