@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Conrad Abu Dhabi Etihad Towers</name>
+   <tag></tag>
+   <elementGuidId>55285fa7-d8a2-47f9-a759-e72ef30c67ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.MuiTypography-root.jss361.MuiTypography-body4Bold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='favorite-section-popup']/div/ul/li/a/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>075cc451-68fd-46fb-a660-a703920d28fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root jss361 MuiTypography-body4Bold</value>
+      <webElementGuid>ec880e27-9225-4f3b-b85e-80cae3876df1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Conrad Abu Dhabi Etihad Towers</value>
+      <webElementGuid>3a1f03d1-1ac4-4c0b-bf61-6464f5aa1e58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;favorite-section-popup&quot;)/div[@class=&quot;jss290&quot;]/ul[@class=&quot;jss294&quot;]/li[@class=&quot;jss357&quot;]/a[@class=&quot;MuiTypography-root MuiLink-root MuiLink-underlineHover muilink jss52 jss696 jss335 MuiTypography-colorPrimary&quot;]/div[@class=&quot;jss358&quot;]/span[@class=&quot;MuiTypography-root jss361 MuiTypography-body4Bold&quot;]</value>
+      <webElementGuid>c3c7b888-75be-4834-8ee0-94ff35301a77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='favorite-section-popup']/div/ul/li/a/div[2]/span</value>
+      <webElementGuid>bce386d2-1142-4a82-915f-9705aceebfc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>69100b63-2e74-47b3-9394-677a9ee4a632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Conrad Abu Dhabi Etihad Towers' or . = 'Conrad Abu Dhabi Etihad Towers')]</value>
+      <webElementGuid>5f68afb4-4a70-41bd-8862-49fd1cc5b4d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

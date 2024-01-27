@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Copy of Copy of Copy of Lead finde.Draft</name>
+   <tag></tag>
+   <elementGuidId>773f9451-95a1-40d9-b62e-60a981d6960d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.sequence-name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[9]/div/main/div[2]/div/div/div/div/div[2]/div/div/div/div/div/table/tbody/tr/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>f699fd27-8dc2-4ec1-992a-5d660bfcb783</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sequence-name</value>
+      <webElementGuid>91f3a9d8-ceb1-4428-9dd7-5256e48f9a64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Copy of Copy of Copy of Lead finde...Draft</value>
+      <webElementGuid>c9bace8c-2511-40f0-9eec-c98ade668186</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;p-0  container-fluid&quot;]/div[@class=&quot;m-0 row&quot;]/main[@class=&quot;home-container&quot;]/div[@class=&quot;sequence-container p-0 container-fluid&quot;]/div[@class=&quot;m-0 row&quot;]/div[@class=&quot;p-0 col&quot;]/div[@class=&quot;sequence-components&quot;]/div[@class=&quot;sequence-list-container&quot;]/div[@class=&quot;sequence-list&quot;]/div[@class=&quot;table-list&quot;]/div[@class=&quot;bs-table bs-table-small&quot;]/div[@class=&quot;bs-table-container&quot;]/div[@class=&quot;bs-table-content&quot;]/div[@class=&quot;react-bootstrap-table&quot;]/table[@class=&quot;table table-organism&quot;]/tbody[@class=&quot;table-organism-body sequence-body-wrapper&quot;]/tr[1]/td[@class=&quot;sequence-name&quot;]</value>
+      <webElementGuid>b1b4f9f8-fad6-4543-adc6-3508532c678c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[9]/div/main/div[2]/div/div/div/div/div[2]/div/div/div/div/div/table/tbody/tr/td[3]</value>
+      <webElementGuid>6b1a4cd0-a142-42a7-b475-9195bf683fef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>830d0900-4300-45a0-867e-e75434d376fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Copy of Copy of Copy of Lead finde...Draft' or . = 'Copy of Copy of Copy of Lead finde...Draft')]</value>
+      <webElementGuid>f1d99f86-01ce-47b4-b988-cfb6606cc52a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

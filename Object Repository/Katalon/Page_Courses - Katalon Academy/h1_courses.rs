@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_courses</name>
+   <tag></tag>
+   <elementGuidId>9844c4f9-2a77-43aa-8998-ea432be63cd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.page-leading.title-course</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page']/div[4]/div/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>5fd9e0d8-0e1c-45c4-bb79-0b14789ea3a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page-leading title-course</value>
+      <webElementGuid>f05c44da-a611-4887-97ec-a5ea40470ad2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>courses</value>
+      <webElementGuid>c9812a5a-feda-4428-a469-ab57da7b9a4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page&quot;)/div[@class=&quot;subtitle-cover sub-title&quot;]/div[@class=&quot;container container_customized&quot;]/div[@class=&quot;row subtitle-border align-items-center&quot;]/div[@class=&quot;col-md-6&quot;]/h1[@class=&quot;page-leading title-course&quot;]</value>
+      <webElementGuid>92171507-e6d4-49bc-bb9c-81412221700e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page']/div[4]/div/div/div/h1</value>
+      <webElementGuid>0c4b25ec-88fa-4525-9dbb-7fd194b727ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>b443decc-4cd8-47fd-9a98-fc17213b63a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'courses' or . = 'courses')]</value>
+      <webElementGuid>8e1b00d6-66f9-4590-b3a6-3dc80fb24272</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Update location</name>
+   <tag></tag>
+   <elementGuidId>647e1775-6a49-4ae9-a169-d18e87e602ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#glow-ingress-line2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='glow-ingress-line2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>25d499c7-7ab6-4e4b-b7a7-76d6ad901a2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-line-2 nav-progressive-content</value>
+      <webElementGuid>8e5abd43-a903-4a15-afa9-0de332e52096</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>glow-ingress-line2</value>
+      <webElementGuid>72ced432-2649-46b2-a22d-95c58b9fdf20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                   Update location
+                </value>
+      <webElementGuid>86f1dc18-00e6-49c7-8344-873a2fc457ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;glow-ingress-line2&quot;)</value>
+      <webElementGuid>385a3895-7dcc-4be6-a0e0-c49732c44be6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='glow-ingress-line2']</value>
+      <webElementGuid>f53640c3-c5b2-446d-a808-1fd850cb08a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='glow-ingress-block']/span[2]</value>
+      <webElementGuid>6f3762cd-b0a4-4a98-a418-d967a4707e93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span[2]</value>
+      <webElementGuid>9babcd84-29b4-4038-bd9b-245dcddf4a31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'glow-ingress-line2' and (text() = '
+                   Update location
+                ' or . = '
+                   Update location
+                ')]</value>
+      <webElementGuid>d5847d14-46d9-496e-b9dd-849b543d8039</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

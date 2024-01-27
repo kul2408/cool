@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_ytp-fullscreen-button ytp-button</name>
+   <tag></tag>
+   <elementGuidId>37d18aa2-684c-4226-bf37-ebd52dba96b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ytp-fullscreen-button.ytp-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='movie_player']/div[28]/div[2]/div[2]/button[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e7388254-35b8-49fe-a31b-56d7866ed72a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ytp-fullscreen-button ytp-button</value>
+      <webElementGuid>529a6066-0077-4357-b774-14d4975a4c88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-keyshortcuts</name>
+      <type>Main</type>
+      <value>f</value>
+      <webElementGuid>a3d5db3c-ac0e-414a-8efb-b583badba31e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-priority</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>bf4ff363-499d-4495-a141-d2a3d0f0af80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-title-no-tooltip</name>
+      <type>Main</type>
+      <value>Full screen</value>
+      <webElementGuid>85207e8e-7c57-45b1-9a7b-be817360f8a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Full screen keyboard shortcut f</value>
+      <webElementGuid>98fcd513-937e-49a5-87ce-30a469afc879</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;movie_player&quot;)/div[@class=&quot;ytp-chrome-bottom&quot;]/div[@class=&quot;ytp-chrome-controls&quot;]/div[@class=&quot;ytp-right-controls&quot;]/button[@class=&quot;ytp-fullscreen-button ytp-button&quot;]</value>
+      <webElementGuid>555ebaca-a333-4063-a84f-2563211ce99e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='movie_player']/div[28]/div[2]/div[2]/button[9]</value>
+      <webElementGuid>a21bbd11-7f23-4e68-960d-d00324465b4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[9]</value>
+      <webElementGuid>b8842a6a-1eb4-4af1-bb71-f527ae2e831b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

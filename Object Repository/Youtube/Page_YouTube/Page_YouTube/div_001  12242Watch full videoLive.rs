@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_001  12242Watch full videoLive</name>
+   <tag></tag>
+   <elementGuidId>0dfbc7e5-353d-4350-a409-0b8a98e84aae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ytp-inline-preview-scrim</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='inline-preview-player']/div[20]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8f7f094c-78f2-4c0a-9924-b2f217564a51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ytp-inline-preview-scrim</value>
+      <webElementGuid>77b0ccf1-553e-45aa-b7f2-3d3552ff2247</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0:01 / 1:22:42•Watch full videoLive</value>
+      <webElementGuid>18337b0f-8d27-4ff9-9b38-655dbfc48c14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inline-preview-player&quot;)/div[@class=&quot;ytp-inline-preview-ui&quot;]/div[@class=&quot;ytp-inline-preview-scrim&quot;]</value>
+      <webElementGuid>1db8278a-4791-47b3-9e7b-bb0b5773bacb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='inline-preview-player']/div[20]/div</value>
+      <webElementGuid>b7f21ede-7264-463a-921a-a35fde19e04e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/ytd-player/div/div/div[20]/div</value>
+      <webElementGuid>397f24d6-e9a3-4832-9755-6ee6e60ca23d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '0:01 / 1:22:42•Watch full videoLive' or . = '0:01 / 1:22:42•Watch full videoLive')]</value>
+      <webElementGuid>b1a19597-a240-481f-b7bf-4ad8749f75a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Certifications</name>
+   <tag></tag>
+   <elementGuidId>cd1bd929-e792-4346-a069-ef77dc29ad61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.header_profile_menu > ul > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='masthead']/div/div/div/div/div[4]/div/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>47b90d33-5a70-4680-a241-db77191a9c40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://academy.katalon.com/dashboard/certifications</value>
+      <webElementGuid>7ef11b07-6067-4668-8ffc-9be226f2fc4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Certifications </value>
+      <webElementGuid>1210dccd-464d-4c04-8cc9-af11d31c0cb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page&quot;)/header[@id=&quot;masthead&quot;]/div[@class=&quot;container-fluid kata-container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;primary-menu&quot;]/div[@class=&quot;row align-items-center justify-content-between&quot;]/div[@class=&quot;col-md-auto  col-auto header-login-cart-wrap&quot;]/div[@class=&quot;skillate-header-login d-inline-block&quot;]/div[@class=&quot;header_profile_menu&quot;]/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>93a4e593-7dab-41aa-8b67-a09f3c8ebb49</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='masthead']/div/div/div/div/div[4]/div/div/ul/li/a</value>
+      <webElementGuid>d451c20b-1957-4ffc-88c8-8e6fe9ae8ef7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Certifications')])[2]</value>
+      <webElementGuid>0314ad60-6a54-4aed-94d7-0b56ea6a686e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://academy.katalon.com/dashboard/certifications')]</value>
+      <webElementGuid>aa0ff6e7-7743-45ab-8dc5-02cc798d6deb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/ul/li/a</value>
+      <webElementGuid>fefdc9e2-e0df-4fda-b7f2-504194cd7b5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://academy.katalon.com/dashboard/certifications' and (text() = 'Certifications ' or . = 'Certifications ')]</value>
+      <webElementGuid>0886ee31-789a-468f-86cd-c82738e89bef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Experiences in Abu Dhabi</name>
+   <tag></tag>
+   <elementGuidId>612c202f-1d25-452b-be77-6ab0a47b2191</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.sitecorelink.jss52.jss694</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(@href, '/en/things-to-do/local-experiences')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>17a59c77-5a63-4870-a717-f9f44d941d84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/en/things-to-do/local-experiences</value>
+      <webElementGuid>7054ab29-f34e-498b-95bc-c2ef0caa6896</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sitecorelink jss52 jss694</value>
+      <webElementGuid>778927eb-2631-4a56-b0ce-ae99e62865b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>header_nav_linkclick</value>
+      <webElementGuid>0523bef4-7c42-40d3-bab3-343bccb861c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-link</name>
+      <type>Main</type>
+      <value>Home|MegaNav|Experiences in Abu Dhabi </value>
+      <webElementGuid>2ef6242d-e6b7-4f25-9298-5f515ebba619</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-x</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>bfdcaa78-07ea-413d-9106-3f864731a70c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Experiences in Abu Dhabi </value>
+      <webElementGuid>96a9f7be-2783-44cc-bb09-7f3c5236783e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;max-height-1067 max-height-746 max-height-736 max-height-705 can-animate&quot;]/body[@class=&quot;vh-calculated&quot;]/div[@class=&quot;MuiDrawer-root MuiDrawer-modal jss598&quot;]/div[@class=&quot;MuiPaper-root MuiDrawer-paper MuiDrawer-paperAnchorTop&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-root jss600 MuiGrid-item MuiGrid-item&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-root jss603 MuiGrid-item MuiGrid-item&quot;]/div[@class=&quot;jss69 megaMenuWrapper&quot;]/div[@class=&quot;jss70 l2List&quot;]/ul[@class=&quot;MuiList-root MuiList-padding&quot;]/li[@class=&quot;MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button&quot;]/a[@class=&quot;sitecorelink jss52 jss694&quot;]</value>
+      <webElementGuid>ac68709f-f1fa-47cb-b73d-3109ca15b666</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/en/things-to-do/local-experiences')]</value>
+      <webElementGuid>254d4ab4-420c-4242-917b-1dcf7ddda325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/ul/li[3]/a</value>
+      <webElementGuid>667dd31a-6f1f-4838-b7b7-8ecf178001d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/en/things-to-do/local-experiences' and (text() = 'Experiences in Abu Dhabi ' or . = 'Experiences in Abu Dhabi ')]</value>
+      <webElementGuid>16be2cb2-4511-487d-8c2c-cd11ef6b4298</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

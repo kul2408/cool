@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_icon_input login-eye-password</name>
+   <tag></tag>
+   <elementGuidId>dadfb15d-12f1-4514-8775-70af198f2cfa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.icon_input.login-eye-password</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kc-content-wrapper']/div/div[2]/div/div/div[2]/div[2]/form/div[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>05424092-d621-4ca7-8d60-5bb4b44287fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon_input login-eye-password</value>
+      <webElementGuid>a6d1344d-8426-47a8-98e0-8686300bab4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://d1h3p5fzmizjvp.cloudfront.net/themes/katalon_4/images/pages/feb_sign_up/eye.svg</value>
+      <webElementGuid>57315981-ec0e-47a7-b863-1522ec4b5c73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Password Hint Icon</value>
+      <webElementGuid>85780b7f-ebd5-4aef-81ed-27733329be20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>bb354a2a-c33c-4b48-9c6d-b582c3eca720</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kc-content-wrapper&quot;)/div[@class=&quot;wrapSignIn login_screen&quot;]/div[@class=&quot;main_content&quot;]/div[@class=&quot;left_content&quot;]/div[@class=&quot;top_section&quot;]/div[@class=&quot;form_section&quot;]/div[@class=&quot;signin_method_section signin_email_section active&quot;]/form[@class=&quot;form_sign_up&quot;]/div[@class=&quot;input_div password_input&quot;]/img[@class=&quot;icon_input login-eye-password&quot;]</value>
+      <webElementGuid>9045cd07-9216-4da9-8a27-04dcfc64c4cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kc-content-wrapper']/div/div[2]/div/div/div[2]/div[2]/form/div[2]/img</value>
+      <webElementGuid>71761f93-b7a8-45ee-a248-6503cf6b3782</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Password Hint Icon']</value>
+      <webElementGuid>a9a62136-3eff-4884-850b-e9a2c6d18226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/img</value>
+      <webElementGuid>9b650199-99be-4364-a339-5a44cf857d43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://d1h3p5fzmizjvp.cloudfront.net/themes/katalon_4/images/pages/feb_sign_up/eye.svg' and @alt = 'Password Hint Icon']</value>
+      <webElementGuid>1ee0d0fa-c9c3-4306-a471-23e0e4a36e22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

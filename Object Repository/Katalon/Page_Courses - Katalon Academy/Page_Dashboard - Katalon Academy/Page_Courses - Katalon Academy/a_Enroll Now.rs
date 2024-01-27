@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Enroll Now</name>
+   <tag></tag>
+   <elementGuidId>1b42faf1-05de-4114-85bc-e7a8b4ec090f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page']/div[5]/div/div[2]/div[2]/div[4]/div[4]/div/div/div[2]/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>13356f6b-efff-4861-a5fe-ae63c2c3b3b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>class-btn-enroll trackable</value>
+      <webElementGuid>cbe62fa5-e2bc-4bd8-b5f7-f2295cac95c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-event-name</name>
+      <type>Main</type>
+      <value>Enroll courses button clicked (Academy)</value>
+      <webElementGuid>55a7b8be-ae85-4cfc-9f33-c66f6da2d8ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-event-label</name>
+      <type>Main</type>
+      <value>User Logged In</value>
+      <webElementGuid>6b7fdb82-b088-48bb-830f-ef5b91196e7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-event-category</name>
+      <type>Main</type>
+      <value>User engagement</value>
+      <webElementGuid>437ef75d-7d4d-4dbe-8c5e-b03fe6145089</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://academy.katalon.com/courses/introducing-katalon-studioassist/</value>
+      <webElementGuid>f630da5f-f13d-47d2-b213-fa20c6bff4ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enroll Now</value>
+      <webElementGuid>fa95710e-19a0-4c79-bcc1-6e137ba4e23b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page&quot;)/div[@class=&quot;generic-padding&quot;]/div[@class=&quot;container archive-container container_customized&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;skillate-courses-wrap course-archive&quot;]/div[@class=&quot;row skillate-course-col align-items-lg-center&quot;]/div[@class=&quot;col-lg-4 col-sm-12&quot;]/div[@class=&quot;skillate-course-media mb-lg-0 mb-4&quot;]/div[@class=&quot;course-media-hover&quot;]/div[@class=&quot;skillate-course-enroll-btn&quot;]/div[@class=&quot;price&quot;]/div[@class=&quot;tutor-loop-cart-btn-wrap&quot;]/a[@class=&quot;class-btn-enroll trackable&quot;]</value>
+      <webElementGuid>a03ddb3f-904e-4360-b53f-4b865e98d3eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page']/div[5]/div/div[2]/div[2]/div[4]/div[4]/div/div/div[2]/div/div/div/a</value>
+      <webElementGuid>f1468ed3-ef2e-4aa2-9be7-559808f54a7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Enroll Now')])[3]</value>
+      <webElementGuid>dd6bd0ad-b744-4932-a680-a51d3005fa7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://academy.katalon.com/courses/introducing-katalon-studioassist/')])[3]</value>
+      <webElementGuid>720ce035-9572-489d-89f8-7532c3cd499f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/div/div/div/a</value>
+      <webElementGuid>816261a1-9289-4fde-9f33-a5e4ec337d30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://academy.katalon.com/courses/introducing-katalon-studioassist/' and (text() = 'Enroll Now' or . = 'Enroll Now')]</value>
+      <webElementGuid>53c2d6fd-b0c9-4c12-8e3e-09300851621d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Property Tax Dues</name>
+   <tag></tag>
+   <elementGuidId>92045461-2f9b-4dae-a876-728416ce145e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(3) > ul.sub-menu.wsmenu-submenu > li:nth-of-type(2) > ul.sub-menu.wsmenu-submenu-sub > li:nth-of-type(2) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='menu-header-en']/li[3]/ul/li[2]/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>122c8fc0-43cf-42cb-b521-24ac36de1a5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>6115d9b9-3bc3-4728-8a0a-69c129d9e851</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/PTAX/PaidorDuesSearch</value>
+      <webElementGuid>e7801d95-34bc-44db-96d6-9a3581c907e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Property Tax Dues</value>
+      <webElementGuid>c66a8639-8afd-44f5-a9a7-46ff7b3a9ea9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-header-en&quot;)/li[3]/ul[@class=&quot;sub-menu wsmenu-submenu&quot;]/li[2]/ul[@class=&quot;sub-menu wsmenu-submenu-sub&quot;]/li[2]/a[1]</value>
+      <webElementGuid>457be38f-2d78-442d-9f90-44f1225fe1ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='menu-header-en']/li[3]/ul/li[2]/ul/li[2]/a</value>
+      <webElementGuid>a654112b-e924-47f1-907d-1fe7935d2567</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Property Tax Dues')]</value>
+      <webElementGuid>453f5034-99d0-4ff4-85bf-90cd3befe533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/PTAX/PaidorDuesSearch')]</value>
+      <webElementGuid>a2ec3aa2-09df-430e-9292-464deb3c8dba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li[2]/ul/li[2]/a</value>
+      <webElementGuid>42807460-cbb8-4a7b-ab8c-f658a808805d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/PTAX/PaidorDuesSearch' and (text() = 'Property Tax Dues' or . = 'Property Tax Dues')]</value>
+      <webElementGuid>dc5fb8da-67b2-46b2-983f-18fbd7c6f7aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

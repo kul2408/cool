@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>7bf86890-4c91-4ca1-80ad-bd4d60e812c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(3) > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[9]/div/main/div[2]/div/div/div/div/div[2]/div/div/div/div/div/table/tbody/tr/td[11]/div/div[2]/div[3]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ca159345-740f-4e8b-b85a-a4ae018f2021</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/media/trash-light.293c03fd.svg</value>
+      <webElementGuid>29264ebe-baed-4056-8855-fff1dd379405</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>tooltip-Kfqrrl7LWk</value>
+      <webElementGuid>e302fc64-9898-4628-81e1-1e34b9d779d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;p-0  container-fluid&quot;]/div[@class=&quot;m-0 row&quot;]/main[@class=&quot;home-container&quot;]/div[@class=&quot;sequence-container p-0 container-fluid&quot;]/div[@class=&quot;m-0 row&quot;]/div[@class=&quot;p-0 col&quot;]/div[@class=&quot;sequence-components&quot;]/div[@class=&quot;sequence-list-container&quot;]/div[@class=&quot;sequence-list&quot;]/div[@class=&quot;table-list&quot;]/div[@class=&quot;bs-table bs-table-small&quot;]/div[@class=&quot;bs-table-container&quot;]/div[@class=&quot;bs-table-content&quot;]/div[@class=&quot;react-bootstrap-table&quot;]/table[@class=&quot;table table-organism&quot;]/tbody[@class=&quot;table-organism-body sequence-body-wrapper&quot;]/tr[1]/td[@class=&quot;sequence-owner&quot;]/div[@class=&quot;created-by-wrap hoverable-cell&quot;]/div[@class=&quot;sequence-actions grid-flex d-flex hoverable-cell--actions&quot;]/div[3]/img[1]</value>
+      <webElementGuid>f9a7c62d-2fda-485c-9a93-e7d0782bdc76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[9]/div/main/div[2]/div/div/div/div/div[2]/div/div/div/div/div/table/tbody/tr/td[11]/div/div[2]/div[3]/img</value>
+      <webElementGuid>be0d53e3-165d-4528-b3c8-93dd57981d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/img</value>
+      <webElementGuid>46fb3f7c-15f7-480e-8568-66273871e87f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/static/media/trash-light.293c03fd.svg']</value>
+      <webElementGuid>2b4920fc-4324-4b83-907c-e8c8d9819edb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

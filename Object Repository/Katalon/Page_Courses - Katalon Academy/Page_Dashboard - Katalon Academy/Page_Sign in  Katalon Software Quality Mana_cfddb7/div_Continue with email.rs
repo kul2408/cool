@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Continue with email</name>
+   <tag></tag>
+   <elementGuidId>a506bdc4-fa63-4750-a717-93173ae800f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.method_title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='btn_signin_with_email_id']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ebfb4f3b-fd60-40da-a283-78304001d1ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>method_title</value>
+      <webElementGuid>b94c9008-d880-4ed8-9bde-38e27a5ad0d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue with email</value>
+      <webElementGuid>f68501ea-a492-45d4-800a-5e263b3edb11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn_signin_with_email_id&quot;)/div[@class=&quot;method_item&quot;]/div[@class=&quot;method_title&quot;]</value>
+      <webElementGuid>cc8aa0b1-c7dd-49d2-9d63-cf5d19be7712</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='btn_signin_with_email_id']/div/div[2]</value>
+      <webElementGuid>7196c8b0-48c8-4341-9f3c-fbeea2abf55f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/div/div[2]</value>
+      <webElementGuid>1194d755-0146-461a-ad9f-6dea5cd964fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Continue with email' or . = 'Continue with email')]</value>
+      <webElementGuid>c7d1abd1-bbeb-49e8-b649-650b2885b429</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

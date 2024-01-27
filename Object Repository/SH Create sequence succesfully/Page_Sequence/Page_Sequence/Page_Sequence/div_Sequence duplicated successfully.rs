@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sequence duplicated successfully</name>
+   <tag></tag>
+   <elementGuidId>9faf18f1-ed46-46bc-8245-cddc3cf1eb92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.message-desc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[7]/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9ce7e4ac-4dcc-40c7-bacb-947db820a2cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>message-desc</value>
+      <webElementGuid>a7d4e958-84cb-47a0-acc1-1e5c020f5078</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sequence duplicated successfully</value>
+      <webElementGuid>5a1f8202-8540-457b-86b1-29013a094d1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;bs-message-container&quot;]/div[@class=&quot;bs-message bottom&quot;]/div[@class=&quot;fade toast message-container theme-new variant-success regular-2 show&quot;]/div[@class=&quot;message-desc&quot;]</value>
+      <webElementGuid>c9267dd0-319f-47f6-bd8f-3f322e363d99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[7]/div[2]/div/div[2]</value>
+      <webElementGuid>0f9c9529-1df9-4a70-96d7-66db1e8d40fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]</value>
+      <webElementGuid>3195a80c-6e09-47ef-9f9e-7033426d4369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sequence duplicated successfully' or . = 'Sequence duplicated successfully')]</value>
+      <webElementGuid>3885809d-12a6-47ac-b368-ee582118b5eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

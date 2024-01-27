@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cards, Bill Pay</name>
+   <tag></tag>
+   <elementGuidId>a53e70b3-0d3d-41b2-b1c1-52265cde6617</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#webPay > a[title=&quot;Pay&quot;] > span.description</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>aa094418-a886-4200-a86a-f353dfe82919</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>description</value>
+      <webElementGuid>9b0e7651-683e-4a38-947d-98777d5eca3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cards, Bill Pay</value>
+      <webElementGuid>4a429246-340b-4c93-b5ea-94c6722fc36f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;webPay&quot;)/a[1]/span[@class=&quot;description&quot;]</value>
+      <webElementGuid>bae10bc9-7e49-4c01-bc6b-fa1392635bb5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='webPay']/a/span[3]</value>
+      <webElementGuid>8c4096cc-9c84-41f0-8b27-87f7df68c85a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div/div/div[2]/ul/li[2]/a/span[3]</value>
+      <webElementGuid>46c6bbb8-9e47-453e-994f-910da8f08df0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cards, Bill Pay' or . = 'Cards, Bill Pay')]</value>
+      <webElementGuid>7457513b-9fd4-4876-81cd-044872fc7bc6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

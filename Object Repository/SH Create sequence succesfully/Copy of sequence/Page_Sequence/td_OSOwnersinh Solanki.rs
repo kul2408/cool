@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_OSOwnersinh Solanki</name>
+   <tag></tag>
+   <elementGuidId>9d9ca227-a414-426c-89b8-5d34691be50c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.sequence-owner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[9]/div/main/div[2]/div/div/div/div/div[2]/div/div/div/div/div/table/tbody/tr/td[11]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>d6dc39be-b5ef-4118-b0b5-f46f4f90047e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sequence-owner</value>
+      <webElementGuid>56d9aca4-c85a-45c8-813d-dd49a21fe730</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OSOwnersinh Solanki</value>
+      <webElementGuid>cba2eebe-cc2e-4a25-ab9a-97b6362f33eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;p-0  container-fluid&quot;]/div[@class=&quot;m-0 row&quot;]/main[@class=&quot;home-container&quot;]/div[@class=&quot;sequence-container p-0 container-fluid&quot;]/div[@class=&quot;m-0 row&quot;]/div[@class=&quot;p-0 col&quot;]/div[@class=&quot;sequence-components&quot;]/div[@class=&quot;sequence-list-container&quot;]/div[@class=&quot;sequence-list&quot;]/div[@class=&quot;table-list&quot;]/div[@class=&quot;bs-table bs-table-small&quot;]/div[@class=&quot;bs-table-container&quot;]/div[@class=&quot;bs-table-content&quot;]/div[@class=&quot;react-bootstrap-table&quot;]/table[@class=&quot;table table-organism&quot;]/tbody[@class=&quot;table-organism-body sequence-body-wrapper&quot;]/tr[1]/td[@class=&quot;sequence-owner&quot;]</value>
+      <webElementGuid>c90750b2-6ad6-4cfd-9e1a-d3684c2103ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[9]/div/main/div[2]/div/div/div/div/div[2]/div/div/div/div/div/table/tbody/tr/td[11]</value>
+      <webElementGuid>4576fe4a-9699-445d-9e26-d22fe0fec86a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[11]</value>
+      <webElementGuid>2edbabad-9607-4f1a-b000-af0e46d6f01b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'OSOwnersinh Solanki' or . = 'OSOwnersinh Solanki')]</value>
+      <webElementGuid>667dc9e5-0da2-494f-8b17-22fdb4e52acb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

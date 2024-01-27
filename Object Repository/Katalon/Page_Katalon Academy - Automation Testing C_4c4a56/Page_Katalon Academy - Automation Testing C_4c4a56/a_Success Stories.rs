@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Success Stories</name>
+   <tag></tag>
+   <elementGuidId>649dd926-02d9-4fc5-980c-5fd88fdbfc60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-65462 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-65462']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d7e1f521-1e19-447e-be74-465f54b5b3ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://academy.katalon.com/success-stories/</value>
+      <webElementGuid>6ae614d2-382b-482b-a92f-4a20fcfe3eeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Success Stories</value>
+      <webElementGuid>b621bc9d-ece8-4cfc-b642-a295d2556955</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-main-menu&quot;)/li[@id=&quot;menu-item-36747&quot;]/ul[@class=&quot;sub-menu&quot;]/li[@id=&quot;menu-item-65462&quot;]/a[1]</value>
+      <webElementGuid>a498d9d8-effb-425c-b165-ad809cf9ca35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-65462']/a</value>
+      <webElementGuid>17177843-d1c0-420c-b271-ece0f011aba1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Success Stories')]</value>
+      <webElementGuid>d16ca230-ebe7-464b-b4bd-17162815c4fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://academy.katalon.com/success-stories/')]</value>
+      <webElementGuid>b23b2563-ebc7-4335-94aa-26a8964db740</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>71a22ab5-848f-4f35-8661-0d0d5b942504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://academy.katalon.com/success-stories/' and (text() = 'Success Stories' or . = 'Success Stories')]</value>
+      <webElementGuid>66d15167-3efc-46ee-9ae4-64f7857fc787</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

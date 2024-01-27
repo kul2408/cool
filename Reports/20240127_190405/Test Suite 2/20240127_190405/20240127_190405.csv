@@ -1,0 +1,132 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite 2,Chrome 120.0.0.0,,,27-01-2024 19:04:09,27-01-2024 19:17:13,13m - 4.098s,PASSED
+,,,,,,,
+Test Cases/A M C online services,Chrome 120.0.0.0,,,27-01-2024 19:04:09,27-01-2024 19:04:34,24.681s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,27-01-2024 19:04:09,27-01-2024 19:04:11,2.014s,PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,27-01-2024 19:04:11,27-01-2024 19:04:11,0.153s,PASSED
+"navigateToUrl(""https://ahmedabadcity.gov.in/"")",Chrome 120.0.0.0,,,27-01-2024 19:04:11,27-01-2024 19:04:32,21.115s,PASSED
+"click(findTestObject(""Object Repository/AMC/Page_AMC/a_Online Services""))",Chrome 120.0.0.0,,,27-01-2024 19:04:32,27-01-2024 19:04:33,0.691s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,27-01-2024 19:04:33,27-01-2024 19:04:34,0.391s,PASSED
+,,,,,,,
+Test Cases/AMC navigation,Chrome 120.0.0.0,,,27-01-2024 19:04:34,27-01-2024 19:05:02,28.369s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,27-01-2024 19:04:34,27-01-2024 19:04:35,1.089s,PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,27-01-2024 19:04:35,27-01-2024 19:04:35,0.143s,PASSED
+"navigateToUrl(""https://ahmedabadcity.gov.in/"")",Chrome 120.0.0.0,,,27-01-2024 19:04:35,27-01-2024 19:04:52,17.255s,PASSED
+"click(findTestObject(""Object Repository/AMC/Page_AMC/Page_AMC/Page_AMC/a_About Us""))",Chrome 120.0.0.0,,,27-01-2024 19:04:52,27-01-2024 19:04:54,1.617s,PASSED
+"click(findTestObject(""Object Repository/AMC/Page_AMC/Page_AMC/Page_AMC/a_Feedback""))",Chrome 120.0.0.0,,,27-01-2024 19:04:54,27-01-2024 19:04:57,3.499s,PASSED
+"click(findTestObject(""Object Repository/AMC/Page_AMC/Page_AMC/Page_AMC/a_Sitemap""))",Chrome 120.0.0.0,,,27-01-2024 19:04:57,27-01-2024 19:04:59,1.977s,PASSED
+"click(findTestObject(""Object Repository/AMC/Page_AMC/Page_AMC/Page_AMC/a_Contact Us""))",Chrome 120.0.0.0,,,27-01-2024 19:04:59,27-01-2024 19:05:01,2.153s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,27-01-2024 19:05:01,27-01-2024 19:05:02,0.542s,PASSED
+,,,,,,,
+Test Cases/AMC other site list dropdown,Chrome 120.0.0.0,,,27-01-2024 19:05:02,27-01-2024 19:05:27,25.353s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,27-01-2024 19:05:02,27-01-2024 19:05:03,1.216s,PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,27-01-2024 19:05:03,27-01-2024 19:05:03,0.126s,PASSED
+"navigateToUrl(""https://ahmedabadcity.gov.in/"")",Chrome 120.0.0.0,,,27-01-2024 19:05:03,27-01-2024 19:05:25,21.829s,PASSED
+"click(findTestObject(""Object Repository/AMC/Page_AMC/a_Our Site""))",Chrome 120.0.0.0,,,27-01-2024 19:05:25,27-01-2024 19:05:26,0.816s,PASSED
+"click(findTestObject(""Object Repository/AMC/Page_AMC/a_Sabarmati River Front""))",Chrome 120.0.0.0,,,27-01-2024 19:05:26,27-01-2024 19:05:27,0.925s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,27-01-2024 19:05:27,27-01-2024 19:05:27,0.371s,PASSED
+,,,,,,,
+Test Cases/FB Friend Request accept,Chrome 120.0.0.0,,,27-01-2024 19:10:36,27-01-2024 19:11:45,1m - 8.778s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,27-01-2024 19:10:36,27-01-2024 19:10:37,1.344s,PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,27-01-2024 19:10:37,27-01-2024 19:10:37,0.125s,PASSED
+"navigateToUrl(""https://www.facebook.com/"")",Chrome 120.0.0.0,,,27-01-2024 19:10:37,27-01-2024 19:10:39,1.279s,PASSED
+"setText(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/input_email""), ""mkrajput1524@gmail.com"")",Chrome 120.0.0.0,,,27-01-2024 19:10:39,27-01-2024 19:10:40,0.867s,PASSED
+"click(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/input_email""))",Chrome 120.0.0.0,,,27-01-2024 19:10:40,27-01-2024 19:10:40,0.647s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/input_pass""), ""1AmIDvstrhuOMOvwahdcoA=="")",Chrome 120.0.0.0,,,27-01-2024 19:10:40,27-01-2024 19:10:41,0.374s,PASSED
+"click(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/button_Log in""))",Chrome 120.0.0.0,,,27-01-2024 19:10:41,27-01-2024 19:11:12,31.566s,PASSED
+"click(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Facebook  log in or sign up/Page_(13) Facebook/span_Confirm""), STOP_ON_FAILURE)",Chrome 120.0.0.0,,,27-01-2024 19:11:12,27-01-2024 19:11:44,32.123s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,27-01-2024 19:11:44,27-01-2024 19:11:45,0.438s,PASSED
+,,,,,,,
+Test Cases/FB Story carausal buttons,Chrome 120.0.0.0,,,27-01-2024 19:11:45,27-01-2024 19:13:24,1m - 39.662s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,27-01-2024 19:11:45,27-01-2024 19:11:46,0.928s,PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,27-01-2024 19:11:46,27-01-2024 19:11:46,0.138s,PASSED
+"navigateToUrl(""https://www.facebook.com/"")",Chrome 120.0.0.0,,,27-01-2024 19:11:46,27-01-2024 19:11:47,1.260s,PASSED
+"click(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Log in to Facebook/Page_Log in to Facebook/Page_Facebook  log in or sign up/input_email""))",Chrome 120.0.0.0,,,27-01-2024 19:11:47,27-01-2024 19:11:48,0.782s,PASSED
+"setText(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Log in to Facebook/Page_Log in to Facebook/Page_Facebook  log in or sign up/input_email""), ""mkrajput1524@gmail.com"")",Chrome 120.0.0.0,,,27-01-2024 19:11:48,27-01-2024 19:11:49,1.022s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Log in to Facebook/Page_Log in to Facebook/Page_Facebook  log in or sign up/input_pass""), ""1AmIDvstrhuOMOvwahdcoA=="")",Chrome 120.0.0.0,,,27-01-2024 19:11:49,27-01-2024 19:11:49,0.398s,PASSED
+"click(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Log in to Facebook/Page_Log in to Facebook/Page_Facebook  log in or sign up/button_Log in""))",Chrome 120.0.0.0,,,27-01-2024 19:11:49,27-01-2024 19:12:21,31.580s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Log in to Facebook/Page_Log in to Facebook/Page_(5) Facebook/svg_x19dipnz x1lliihq x1k90msu x2h7rmj x1qfuztq""))",Chrome 120.0.0.0,,,27-01-2024 19:12:21,27-01-2024 19:12:52,31.505s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Log in to Facebook/Page_Log in to Facebook/Page_(5) Facebook/svg_x19dipnz x1lliihq x1k90msu x2h7rmj x1qfuztq""))",Chrome 120.0.0.0,,,27-01-2024 19:12:52,27-01-2024 19:13:24,31.574s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,27-01-2024 19:13:24,27-01-2024 19:13:24,0.412s,PASSED
+,,,,,,,
+Test Cases/FB Story is clickeble,Chrome 120.0.0.0,,,27-01-2024 19:13:24,27-01-2024 19:15:04,1m - 39.200s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,27-01-2024 19:13:24,27-01-2024 19:13:25,0.818s,PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,27-01-2024 19:13:25,27-01-2024 19:13:25,0.159s,PASSED
+"navigateToUrl(""https://www.facebook.com/"")",Chrome 120.0.0.0,,,27-01-2024 19:13:25,27-01-2024 19:13:27,1.340s,PASSED
+"setText(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Facebook  log in or sign up/input_email""), ""mkrajput1524@gmail.com"")",Chrome 120.0.0.0,,,27-01-2024 19:13:27,27-01-2024 19:13:28,0.886s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Facebook  log in or sign up/input_pass""), ""1AmIDvstrhuOMOvwahdcoA=="")",Chrome 120.0.0.0,,,27-01-2024 19:13:28,27-01-2024 19:13:28,0.734s,PASSED
+"click(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Facebook  log in or sign up/button_Log in""))",Chrome 120.0.0.0,,,27-01-2024 19:13:28,27-01-2024 19:14:00,31.658s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_(7) Facebook/div_x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5yt_217c05""))",Chrome 120.0.0.0,,,27-01-2024 19:14:00,27-01-2024 19:14:32,31.611s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_(7) Facebook/div_x1i10hfl x6umtig x1b1mbwd xaqea5y xav7g_d32c55""))",Chrome 120.0.0.0,,,27-01-2024 19:14:32,27-01-2024 19:15:03,31.538s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,27-01-2024 19:15:03,27-01-2024 19:15:04,0.399s,PASSED
+,,,,,,,
+Test Cases/LM right page langauge change english to arabic,Chrome 120.0.0.0,,,27-01-2024 19:15:04,27-01-2024 19:15:09,5.168s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,27-01-2024 19:15:04,27-01-2024 19:15:04,0.750s,PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,27-01-2024 19:15:04,27-01-2024 19:15:05,0.141s,PASSED
+"navigateToUrl(""https://www.livingmuseum.com/en/"")",Chrome 120.0.0.0,,,27-01-2024 19:15:05,27-01-2024 19:15:07,2.810s,PASSED
+"scrollToPosition(0, 1)",Chrome 120.0.0.0,,,27-01-2024 19:15:07,27-01-2024 19:15:08,0.229s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/LM/Page_The Living Museum/a_""))",Chrome 120.0.0.0,,,27-01-2024 19:15:08,27-01-2024 19:15:08,0.845s,PASSED
+"scrollToPosition(0, 1)",Chrome 120.0.0.0,,,27-01-2024 19:15:08,27-01-2024 19:15:08,0.010s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,27-01-2024 19:15:08,27-01-2024 19:15:09,0.315s,PASSED
+,,,,,,,
+Test Cases/LM page carousel,Chrome 120.0.0.0,,,27-01-2024 19:15:09,27-01-2024 19:15:14,5.046s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,27-01-2024 19:15:09,27-01-2024 19:15:10,0.780s,PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,27-01-2024 19:15:10,27-01-2024 19:15:10,0.136s,PASSED
+"navigateToUrl(""https://www.livingmuseum.com/en"")",Chrome 120.0.0.0,,,27-01-2024 19:15:10,27-01-2024 19:15:12,1.989s,PASSED
+"scrollToPosition(0, 1)",Chrome 120.0.0.0,,,27-01-2024 19:15:12,27-01-2024 19:15:12,0.011s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_The Living Museum/i_click-area""))",Chrome 120.0.0.0,,,27-01-2024 19:15:12,27-01-2024 19:15:13,1.063s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_The Living Museum/i_click-area_1""))",Chrome 120.0.0.0,,,27-01-2024 19:15:13,27-01-2024 19:15:13,0.325s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_The Living Museum/i_click-area_1_2""))",Chrome 120.0.0.0,,,27-01-2024 19:15:13,27-01-2024 19:15:13,0.346s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,27-01-2024 19:15:13,27-01-2024 19:15:14,0.337s,PASSED
+,,,,,,,
+Test Cases/LM Click on logo to navigate home page,Chrome 120.0.0.0,,,27-01-2024 19:15:14,27-01-2024 19:15:48,33.855s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,27-01-2024 19:15:14,27-01-2024 19:15:15,0.742s,PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,27-01-2024 19:15:15,27-01-2024 19:15:15,0.129s,PASSED
+"navigateToUrl(""https://www.livingmuseum.com/en/arts/exhibitions"")",Chrome 120.0.0.0,,,27-01-2024 19:15:15,27-01-2024 19:15:16,1.038s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/LM/Page_The Living Museum/Page_The Living Museum/svg""))",Chrome 120.0.0.0,,,27-01-2024 19:15:16,27-01-2024 19:15:47,31.542s,PASSED
+"scrollToPosition(0, 1)",Chrome 120.0.0.0,,,27-01-2024 19:15:47,27-01-2024 19:15:47,0.015s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,27-01-2024 19:15:47,27-01-2024 19:15:48,0.326s,PASSED
+,,,,,,,
+Test Cases/SH Create sequence,Chrome 120.0.0.0,,,27-01-2024 19:15:48,27-01-2024 19:16:08,20.769s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,27-01-2024 19:15:48,27-01-2024 19:15:48,0.773s,PASSED
+"navigateToUrl(""https://compass.lifeisgoodforlearner.com/login"")",Chrome 120.0.0.0,,,27-01-2024 19:15:48,27-01-2024 19:15:59,10.351s,PASSED
+"setText(findTestObject(""Object Repository/SH Create sequence succesfully/Page_Login/input_email""), ""kuldip@qable.io"")",Chrome 120.0.0.0,,,27-01-2024 19:15:59,27-01-2024 19:16:01,2.171s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/SH Create sequence succesfully/Page_Login/input_password""), ""GTlPq8sqzIAVcUdIXgqPeg=="")",Chrome 120.0.0.0,,,27-01-2024 19:16:01,27-01-2024 19:16:02,0.852s,PASSED
+"click(findTestObject(""Object Repository/SH Create sequence succesfully/Page_Login/span_Login""))",Chrome 120.0.0.0,,,27-01-2024 19:16:02,27-01-2024 19:16:03,0.780s,PASSED
+"click(findTestObject(""Object Repository/SH Create sequence succesfully/Page_Sequence/button_Create Sequence""))",Chrome 120.0.0.0,,,27-01-2024 19:16:03,27-01-2024 19:16:07,4.352s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/SH Create sequence succesfully/Page_Sequence/div_Sequence created successfully""), 0)",Chrome 120.0.0.0,,,27-01-2024 19:16:07,27-01-2024 19:16:08,1.128s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,27-01-2024 19:16:08,27-01-2024 19:16:08,0.298s,PASSED
+,,,,,,,
+Test Cases/Google Search,Chrome 120.0.0.0,,,27-01-2024 19:16:08,27-01-2024 19:16:23,14.245s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,27-01-2024 19:16:08,27-01-2024 19:16:09,0.970s,PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,27-01-2024 19:16:09,27-01-2024 19:16:10,0.132s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 120.0.0.0,,,27-01-2024 19:16:10,27-01-2024 19:16:11,1.720s,PASSED
+"setText(findTestObject(""Object Repository/Google search/Page_Google/textarea_q""), ""Youtube"")",Chrome 120.0.0.0,,,27-01-2024 19:16:11,27-01-2024 19:16:12,0.845s,PASSED
+"click(findTestObject(""Object Repository/Google search/Page_Google/span_YouTube""))",Chrome 120.0.0.0,,,27-01-2024 19:16:12,27-01-2024 19:16:14,1.391s,PASSED
+"click(findTestObject(""Object Repository/Google search/Page_youtube - Google Search/h3_YouTube Home""))",Chrome 120.0.0.0,,,27-01-2024 19:16:14,27-01-2024 19:16:22,8.556s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,27-01-2024 19:16:22,27-01-2024 19:16:23,0.567s,PASSED
+,,,,,,,
+Test Cases/Google Search by Image,Chrome 120.0.0.0,,,27-01-2024 19:16:23,27-01-2024 19:16:58,35.346s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,27-01-2024 19:16:23,27-01-2024 19:16:24,1.028s,PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,27-01-2024 19:16:24,27-01-2024 19:16:24,0.127s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 120.0.0.0,,,27-01-2024 19:16:24,27-01-2024 19:16:25,1.563s,PASSED
+"click(findTestObject(""Object Repository/Google search/Page_Google/svg_Gdd5U""))",Chrome 120.0.0.0,,,27-01-2024 19:16:25,27-01-2024 19:16:57,31.711s,PASSED
+"click(findTestObject(""Object Repository/Google search/Page_Google/span_upload a file""))",Chrome 120.0.0.0,,,27-01-2024 19:16:57,27-01-2024 19:16:58,0.578s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,27-01-2024 19:16:58,27-01-2024 19:16:58,0.260s,PASSED
+,,,,,,,
+Test Cases/Google images search,Chrome 120.0.0.0,,,27-01-2024 19:16:58,27-01-2024 19:17:07,8.966s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,27-01-2024 19:16:58,27-01-2024 19:16:59,0.750s,PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,27-01-2024 19:16:59,27-01-2024 19:16:59,0.128s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 120.0.0.0,,,27-01-2024 19:16:59,27-01-2024 19:17:01,1.787s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Google search/Page_Google/a_Images""), 0)",Chrome 120.0.0.0,,,27-01-2024 19:17:01,27-01-2024 19:17:01,0.517s,PASSED
+"setText(findTestObject(""Object Repository/Google search/Page_Google Images/textarea_q""), ""Shree Ram AI"")",Chrome 120.0.0.0,,,27-01-2024 19:17:01,27-01-2024 19:17:02,0.775s,PASSED
+"click(findTestObject(""Object Repository/Google search/Page_Google Images/span_shree ram ai image 4k""))",Chrome 120.0.0.0,,,27-01-2024 19:17:02,27-01-2024 19:17:03,1.029s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,27-01-2024 19:17:03,27-01-2024 19:17:07,3.930s,PASSED
+,,,,,,,
+Test Cases/Google Langauge Change,Chrome 120.0.0.0,,,27-01-2024 19:17:07,27-01-2024 19:17:13,5.773s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,27-01-2024 19:17:07,27-01-2024 19:17:08,0.814s,PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,27-01-2024 19:17:08,27-01-2024 19:17:08,0.131s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 120.0.0.0,,,27-01-2024 19:17:08,27-01-2024 19:17:09,1.475s,PASSED
+"click(findTestObject(""Google search/Page_Google/a_""), STOP_ON_FAILURE)",Chrome 120.0.0.0,,,27-01-2024 19:17:09,27-01-2024 19:17:11,1.541s,PASSED
+"click(findTestObject(""Google search/Page_Google/a_""), STOP_ON_FAILURE)",Chrome 120.0.0.0,,,27-01-2024 19:17:11,27-01-2024 19:17:12,1.361s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,27-01-2024 19:17:12,27-01-2024 19:17:13,0.379s,PASSED

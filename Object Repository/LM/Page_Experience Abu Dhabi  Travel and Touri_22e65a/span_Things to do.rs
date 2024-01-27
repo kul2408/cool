@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Things to do</name>
+   <tag></tag>
+   <elementGuidId>7d09d949-5443-4704-a491-77340af7c7fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.MuiTypography-root.MuiTypography-body2Bold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/section/div/header/div/div/div[2]/ul/li/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e219c20e-da5f-459d-91a6-9d3c938629f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body2Bold</value>
+      <webElementGuid>fc32e7b0-d2a8-481a-8c46-f770e1568bb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Things to do</value>
+      <webElementGuid>72ff4708-298c-4760-8c9c-548a67027873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;header-banner jss8&quot;]/section[@class=&quot;MuiContainer-root&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthXl jss25&quot;]/header[@class=&quot;MuiPaper-root MuiAppBar-root jss21 false is-transparent MuiAppBar-positionAbsolute MuiAppBar-colorTransparent MuiPaper-elevation0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-root jss17&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-root jss17 jss19 MuiGrid-container MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-align-items-xs-center&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-root jss46 MuiGrid-item MuiGrid-item MuiGrid-grid-sm-10 MuiGrid-grid-sm-10&quot;]/ul[@class=&quot;MuiList-root jss61 jss63 jss72 mega-navigation-list MuiList-padding&quot;]/li[@class=&quot;MuiListItem-root jss62 MuiListItem-alignItemsFlexStart&quot;]/a[@class=&quot;sitecorelink jss52 jss73 nav-text hovered&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-body2Bold&quot;]</value>
+      <webElementGuid>c17942c5-c792-4190-9473-155c139b32a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/section/div/header/div/div/div[2]/ul/li/a/span</value>
+      <webElementGuid>3a899728-12a1-4667-ac98-dd49675807a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>88d6a0de-d379-4518-aa80-a25f33c4f42a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Things to do' or . = 'Things to do')]</value>
+      <webElementGuid>b6c0a45c-9be8-4d29-90b4-2ed2151354ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>b753e9ac-88f2-495f-adc4-892b6dbbcc4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='banner-theme']/div/div[2]/button/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>88026864-12b8-4d65-8d34-92391c3cb516</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/images/icons/banner-arrow-down.svg</value>
+      <webElementGuid>5b2d1ed4-1db5-48a6-9d6b-f8bf4111bef7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;banner-theme&quot;)/div[@class=&quot;bg-wrap&quot;]/div[@class=&quot;banner-arrow&quot;]/button[1]/img[1]</value>
+      <webElementGuid>4017b00a-ae6e-4472-a0f8-dda24c900621</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='banner-theme']/div/div[2]/button/img</value>
+      <webElementGuid>2a6060ec-4f8b-43ae-bbfe-721e29566e54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/img</value>
+      <webElementGuid>a20a0319-79c0-487d-87e0-548a2da47e5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/images/icons/banner-arrow-down.svg']</value>
+      <webElementGuid>3da0fdab-88c1-4abe-a25c-d7ffcb73a7b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

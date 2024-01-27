@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_click-area_1</name>
+   <tag></tag>
+   <elementGuidId>338ba1e5-fc62-4f69-81cf-a2af9fcddc9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(3) > button.slick-dot > i.click-area</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/div/div/ul/li[3]/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ca6fb274-2abb-4cde-a95a-e1dccda935b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>click-area</value>
+      <webElementGuid>9cc6e4d6-72ae-46ac-a836-7bb77641c1df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;c-main-carousel&quot;]/div[@class=&quot;container container--custom&quot;]/div[@class=&quot;slick-slider slick-initialized&quot;]/ul[@class=&quot;slick-dots&quot;]/li[3]/button[@class=&quot;slick-dot&quot;]/i[@class=&quot;click-area&quot;]</value>
+      <webElementGuid>e4a7270e-e69a-4a3f-a35b-1a42f9346fa3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/div/div/ul/li[3]/button/i</value>
+      <webElementGuid>870d64e5-2887-48b0-80bc-e95e89e60ac2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/button/i</value>
+      <webElementGuid>5a49a4d5-c47b-4e80-b32e-b18517c15453</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Credit Cards</name>
+   <tag></tag>
+   <elementGuidId>e2695202-b4b1-4f76-b303-04233b9310be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='webPay']/ul/li[2]/ul/li/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>75f8e35b-823e-49e2-9225-746e2d1d72d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>accordionBehaviour(&quot;Credit Cards&quot;, $event, &quot;/personal/pay/cards/credit-cards&quot;)</value>
+      <webElementGuid>e976e7ac-6728-43a9-b6af-df5f045c936b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menus-heading</value>
+      <webElementGuid>7f2e549e-9fee-4c5e-abe6-c7e62b12d992</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Credit Cards</value>
+      <webElementGuid>41de8d30-1cfa-4a94-b005-9c265965d62a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;webPay&quot;)/ul[@class=&quot;sub-menu-level-1 dropdown-menu megamenu-content&quot;]/li[@class=&quot;level-2   sub-parent dyna-width-3&quot;]/ul[@class=&quot;sub-menu&quot;]/li[@class=&quot;level-3  withIcon         active&quot;]/a[1]/span[@class=&quot;menus-heading&quot;]</value>
+      <webElementGuid>75dc98df-2eed-48df-abe7-ff502bfc989f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='webPay']/ul/li[2]/ul/li/a/span</value>
+      <webElementGuid>9c3d400d-ba56-484f-ba0e-33bf33f397be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div/div/div[2]/ul/li[2]/ul/li[2]/ul/li/a/span</value>
+      <webElementGuid>f471183a-873a-4832-adc4-572a32e7b1c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Credit Cards' or . = 'Credit Cards')]</value>
+      <webElementGuid>5876af89-f85d-4118-b8e2-25a2ec13bbbb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

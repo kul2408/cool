@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ends in 031852</name>
+   <tag></tag>
+   <elementGuidId>5a3e866a-8e99-4f25-aef6-dac2a7bcc3a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='anonCarousel1']/ol/li[2]/div/div/div[2]/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8db9ed26-81d7-4e27-b13c-eebb9fe80d4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_deals-hero-shoveler_style_badgeMessage__1Gwiu</value>
+      <webElementGuid>2e5bed53-e323-4a4d-a398-2d1bbf2b2340</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ends in 03:18:52</value>
+      <webElementGuid>a7f3971a-e1ce-4b22-bd51-753aef52ef3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;anonCarousel1&quot;)/ol[@class=&quot;a-carousel&quot;]/li[@class=&quot;a-carousel-card _deals-hero-shoveler_style_elementWrapper__kN6lv&quot;]/div[@class=&quot;_deals-hero-shoveler_style_element__TNuHE&quot;]/div[@class=&quot;_deals-hero-shoveler_style_cardBody__uIG6x&quot;]/div[@class=&quot;a-row a-spacing-none _deals-hero-shoveler_style_innerCardBody__2PiR0&quot;]/div[@class=&quot;a-section a-spacing-small _deals-hero-shoveler_style_detailsBackground__3xJnQ&quot;]/div[@class=&quot;a-row a-spacing-micro _deals-hero-shoveler_style_badgeContainer__1d1AC _deals-hero-shoveler_style_badgeOneLineContainer__3rv_g&quot;]/span[@class=&quot;_deals-hero-shoveler_style_badgeMessage__1Gwiu&quot;]</value>
+      <webElementGuid>58650cf9-b76c-4c68-9556-7bb374f78b44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='anonCarousel1']/ol/li[2]/div/div/div[2]/div/div/span[2]</value>
+      <webElementGuid>1e18f2dc-8596-4ac7-9304-dbdd73874f96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/div[2]/div/div/span[2]</value>
+      <webElementGuid>b157ee87-8122-4c63-a7fa-1ec2f97bd41f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Ends in 03:18:52' or . = 'Ends in 03:18:52')]</value>
+      <webElementGuid>938b7392-2727-4549-9dee-9ea51612f58f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

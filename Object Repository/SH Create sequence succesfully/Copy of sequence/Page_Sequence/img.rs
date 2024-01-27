@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>863959ec-8a53-4ee3-8a71-46b8d1339698</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(2) > img</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[@class=&quot;p-0  container-fluid&quot;]/div[@class=&quot;m-0 row&quot;]/main[@class=&quot;home-container&quot;]/div[@class=&quot;sequence-container p-0 container-fluid&quot;]/div[@class=&quot;m-0 row&quot;]/div[@class=&quot;p-0 col&quot;]/div[@class=&quot;sequence-components&quot;]/div[@class=&quot;sequence-list-container&quot;]/div[@class=&quot;sequence-list&quot;]/div[@class=&quot;table-list&quot;]/div[@class=&quot;bs-table bs-table-small&quot;]/div[@class=&quot;bs-table-container&quot;]/div[@class=&quot;bs-table-content&quot;]/div[@class=&quot;react-bootstrap-table&quot;]/table[@class=&quot;table table-organism&quot;]/tbody[@class=&quot;table-organism-body sequence-body-wrapper&quot;]/tr[1]/td[@class=&quot;sequence-owner&quot;]/div[@class=&quot;created-by-wrap hoverable-cell&quot;]/div[@class=&quot;sequence-actions grid-flex d-flex hoverable-cell--actions&quot;]/div[2]/img[1][count(. | //img[@src = '/static/media/copy.69b772db.svg' and @aria-describedby = 'tooltip-RSc8WVchzE']) = count(//img[@src = '/static/media/copy.69b772db.svg' and @aria-describedby = 'tooltip-RSc8WVchzE'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[9]/div/main/div[2]/div/div/div/div/div[2]/div/div/div/div/div/table/tbody/tr/td[11]/div/div[2]/div[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>d472d6f7-bcbc-4e5a-afe0-92d2d14294ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/media/copy.69b772db.svg</value>
+      <webElementGuid>b5eb2997-f20f-4886-8d52-d1da28bcb542</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>tooltip-RSc8WVchzE</value>
+      <webElementGuid>19638bfb-71a3-45a8-b771-03a0afec72d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;p-0  container-fluid&quot;]/div[@class=&quot;m-0 row&quot;]/main[@class=&quot;home-container&quot;]/div[@class=&quot;sequence-container p-0 container-fluid&quot;]/div[@class=&quot;m-0 row&quot;]/div[@class=&quot;p-0 col&quot;]/div[@class=&quot;sequence-components&quot;]/div[@class=&quot;sequence-list-container&quot;]/div[@class=&quot;sequence-list&quot;]/div[@class=&quot;table-list&quot;]/div[@class=&quot;bs-table bs-table-small&quot;]/div[@class=&quot;bs-table-container&quot;]/div[@class=&quot;bs-table-content&quot;]/div[@class=&quot;react-bootstrap-table&quot;]/table[@class=&quot;table table-organism&quot;]/tbody[@class=&quot;table-organism-body sequence-body-wrapper&quot;]/tr[1]/td[@class=&quot;sequence-owner&quot;]/div[@class=&quot;created-by-wrap hoverable-cell&quot;]/div[@class=&quot;sequence-actions grid-flex d-flex hoverable-cell--actions&quot;]/div[2]/img[1]</value>
+      <webElementGuid>df0d258a-7b4c-4944-a655-49dd2a75082b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[9]/div/main/div[2]/div/div/div/div/div[2]/div/div/div/div/div/table/tbody/tr/td[11]/div/div[2]/div[2]/img</value>
+      <webElementGuid>27ff06b7-a624-4c16-b690-ab29ee8dd3bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/img</value>
+      <webElementGuid>72bd7604-215e-4b7f-ac4f-4f23439030d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/static/media/copy.69b772db.svg']</value>
+      <webElementGuid>a1029baf-06a7-4161-8563-74cbf8f416c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

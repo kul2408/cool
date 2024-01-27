@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Choose a course</name>
+   <tag></tag>
+   <elementGuidId>8afe61e9-fe8c-46b6-b59a-ae381a6676d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.choose-a-course.cus-btn.cus-btn-primary.trackable</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1ce44772-25a2-4e48-92e6-584862f769b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>choose-a-course cus-btn cus-btn-primary trackable</value>
+      <webElementGuid>541c4654-349e-40c9-97ef-69202a464629</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://academy.katalon.com/courses</value>
+      <webElementGuid>f6ab10e4-c19c-4e92-941b-57424072e0bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-event-name</name>
+      <type>Main</type>
+      <value>choose a course Button Clicked</value>
+      <webElementGuid>4193998d-25ae-41ab-bee8-726d8a3c9792</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-event-category</name>
+      <type>Main</type>
+      <value>User engagement</value>
+      <webElementGuid>daf14101-8f7f-44c4-bbeb-7edfa2ff196f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choose a course</value>
+      <webElementGuid>0d8ef691-7e89-4036-a2af-5bb38e7b529c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;container-fluid kata-container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;hero&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content&quot;]/a[@class=&quot;choose-a-course cus-btn cus-btn-primary trackable&quot;]</value>
+      <webElementGuid>c2b33f10-245d-4b7c-bc4c-dafaec92cc28</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/div/div/div/a</value>
+      <webElementGuid>95bdbf59-1523-41eb-8695-cd48ad12efdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Choose a course')]</value>
+      <webElementGuid>cfc720d9-6c8a-4c66-b01f-ecd5d8974dfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://academy.katalon.com/courses')])[4]</value>
+      <webElementGuid>a7822283-6f17-429a-995e-f2769f23d145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div/div/a</value>
+      <webElementGuid>ca9cf0b6-65c7-4154-91a3-3702db3fb5a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://academy.katalon.com/courses' and (text() = 'Choose a course' or . = 'Choose a course')]</value>
+      <webElementGuid>9b546c3f-76fb-4127-bd79-03e81e974291</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

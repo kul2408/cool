@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Copy of 11111 1Draft</name>
+   <tag></tag>
+   <elementGuidId>6c8e88c1-ffa3-4009-aa99-f8d4fbfc6e2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.sequence-name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[9]/div/main/div[2]/div/div/div/div/div[2]/div/div/div/div/div/table/tbody/tr/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>2f7a9999-06f2-4e24-b49e-aa704d132722</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sequence-name</value>
+      <webElementGuid>157c723e-7f94-48c0-8a72-0503552455e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Copy of 11111 1Draft</value>
+      <webElementGuid>2e72f255-0374-4409-8770-9017b6c60ec7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;p-0  container-fluid&quot;]/div[@class=&quot;m-0 row&quot;]/main[@class=&quot;home-container&quot;]/div[@class=&quot;sequence-container p-0 container-fluid&quot;]/div[@class=&quot;m-0 row&quot;]/div[@class=&quot;p-0 col&quot;]/div[@class=&quot;sequence-components&quot;]/div[@class=&quot;sequence-list-container&quot;]/div[@class=&quot;sequence-list&quot;]/div[@class=&quot;table-list&quot;]/div[@class=&quot;bs-table bs-table-small&quot;]/div[@class=&quot;bs-table-container&quot;]/div[@class=&quot;bs-table-content&quot;]/div[@class=&quot;react-bootstrap-table&quot;]/table[@class=&quot;table table-organism&quot;]/tbody[@class=&quot;table-organism-body sequence-body-wrapper&quot;]/tr[1]/td[@class=&quot;sequence-name&quot;]</value>
+      <webElementGuid>1417735b-e196-4089-aa39-d2dde4dc4eb3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[9]/div/main/div[2]/div/div/div/div/div[2]/div/div/div/div/div/table/tbody/tr/td[3]</value>
+      <webElementGuid>b2a26361-86b6-41d9-aadd-3604dc965fda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>30daad5d-9aa9-4c82-9777-d1ad5f63a31b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Copy of 11111 1Draft' or . = 'Copy of 11111 1Draft')]</value>
+      <webElementGuid>68a08ea2-c484-4b87-8eea-db1b9ed1d2d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

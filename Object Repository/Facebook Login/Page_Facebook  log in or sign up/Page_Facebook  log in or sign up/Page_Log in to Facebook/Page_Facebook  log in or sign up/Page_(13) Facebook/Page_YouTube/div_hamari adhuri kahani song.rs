@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_hamari adhuri kahani song</name>
+   <tag></tag>
+   <elementGuidId>b99e5e60-3c2a-4a73-ad0b-fb051fb0fdfe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sbqs_c</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sbse0']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a3d000de-3bcd-4dd4-83e5-3005021423b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sbqs_c</value>
+      <webElementGuid>4f256b23-805a-42c0-b90a-8b87b3b754db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>hamari adhuri kahani song</value>
+      <webElementGuid>465ff1bc-fd7a-4a81-b075-7efac1fa4ea2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sbse0&quot;)/div[@class=&quot;sbqs_c&quot;]</value>
+      <webElementGuid>9c282b8c-4cd9-4c4b-b38b-ac41d3e4009a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sbse0']/div[2]</value>
+      <webElementGuid>761cbce0-6539-4ad3-b0c4-ae7fd39a1466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div[2]</value>
+      <webElementGuid>0871f647-3893-4226-be72-833f33b2a73d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'hamari adhuri kahani song' or . = 'hamari adhuri kahani song')]</value>
+      <webElementGuid>8608f24f-f32c-43bd-a076-fc24fdd328e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

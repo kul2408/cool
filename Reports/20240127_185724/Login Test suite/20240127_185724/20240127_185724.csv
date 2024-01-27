@@ -1,0 +1,84 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login Test suite,Chrome 120.0.0.0,Login test cases valid/invalid,,27-01-2024 18:57:28,27-01-2024 19:02:21,4m - 52.798s,PASSED
+,,,,,,,
+Test Cases/Facebook Login invalid 1,Chrome 120.0.0.0,,,27-01-2024 18:57:28,27-01-2024 18:58:07,38.805s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,27-01-2024 18:57:28,27-01-2024 18:57:30,1.926s,PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,27-01-2024 18:57:30,27-01-2024 18:57:31,0.140s,PASSED
+"navigateToUrl(""https://www.facebook.com/"")",Chrome 120.0.0.0,,,27-01-2024 18:57:31,27-01-2024 18:57:32,1.366s,PASSED
+"click(findTestObject(""Object Repository/Page_Facebook  log in or sign up/input_email""))",Chrome 120.0.0.0,,,27-01-2024 18:57:32,27-01-2024 18:57:33,0.778s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Facebook  log in or sign up/input_pass""), ""1AmIDvstrhuOMOvwahdcoA=="")",Chrome 120.0.0.0,,,27-01-2024 18:57:33,27-01-2024 18:57:33,0.797s,PASSED
+"click(findTestObject(""Object Repository/Page_Facebook  log in or sign up/button_Log in""))",Chrome 120.0.0.0,,,27-01-2024 18:57:33,27-01-2024 18:58:05,31.534s,PASSED
+"verifyElementPresent(findTestObject(""Page_Log in to Facebook/div_The email address or mobile number you _93c7eb""), 0)",Chrome 120.0.0.0,,,27-01-2024 18:58:05,27-01-2024 18:58:07,1.600s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,27-01-2024 18:58:07,27-01-2024 18:58:07,0.325s,PASSED
+,,,,,,,
+Test Cases/Facebook login invalid 2,Chrome 120.0.0.0,,,27-01-2024 18:58:07,27-01-2024 18:59:14,1m - 7.448s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,27-01-2024 18:58:07,27-01-2024 18:58:08,0.825s,PASSED
+"navigateToUrl(""https://www.facebook.com/"")",Chrome 120.0.0.0,,,27-01-2024 18:58:08,27-01-2024 18:58:09,1.379s,PASSED
+"setText(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Log in to Facebook/Page_Facebook  log in or sign up/input_email""), ""mkrajput1524@gmail.com"")",Chrome 120.0.0.0,,,27-01-2024 18:58:09,27-01-2024 18:58:10,0.895s,PASSED
+"click(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Log in to Facebook/Page_Facebook  log in or sign up/input_pass""), STOP_ON_FAILURE)",Chrome 120.0.0.0,,,27-01-2024 18:58:10,27-01-2024 18:58:11,0.700s,PASSED
+"click(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Log in to Facebook/Page_Facebook  log in or sign up/button_Log in""))",Chrome 120.0.0.0,,,27-01-2024 18:58:11,27-01-2024 18:58:42,31.607s,PASSED
+"click(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Log in to Facebook/Page_Log in to Facebook/div_The password that youve entered is inco_890204""))",Chrome 120.0.0.0,,,27-01-2024 18:58:42,27-01-2024 18:59:14,31.657s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,27-01-2024 18:59:14,27-01-2024 18:59:14,0.285s,PASSED
+,,,,,,,
+Test Cases/Facebook login invalid input,Chrome 120.0.0.0,,,27-01-2024 18:59:14,27-01-2024 18:59:58,43.393s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,27-01-2024 18:59:14,27-01-2024 18:59:15,0.802s,PASSED
+"navigateToUrl(""https://www.facebook.com/"")",Chrome 120.0.0.0,,,27-01-2024 18:59:15,27-01-2024 18:59:17,1.255s,PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,27-01-2024 18:59:17,27-01-2024 18:59:17,0.130s,PASSED
+"setText(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/input_email""), ""mkrajput1524@gmail.com"")",Chrome 120.0.0.0,,,27-01-2024 18:59:17,27-01-2024 18:59:18,0.887s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/input_pass""), ""SaLzXmhNQh8j1fW8MYGYmNu1rlo2bgwA"")",Chrome 120.0.0.0,,,27-01-2024 18:59:18,27-01-2024 18:59:18,0.621s,PASSED
+"click(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/button_Log in""))",Chrome 120.0.0.0,,,27-01-2024 18:59:18,27-01-2024 18:59:50,31.645s,PASSED
+"click(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/Page_Log in to Facebook/div_The password that youve entered is inco_890204""))",Chrome 120.0.0.0,,,27-01-2024 18:59:50,27-01-2024 18:59:57,7.660s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,27-01-2024 18:59:57,27-01-2024 18:59:58,0.332s,PASSED
+,,,,,,,
+Test Cases/Facebook Login valid input,Chrome 120.0.0.0,,,27-01-2024 18:59:58,27-01-2024 19:00:34,36.650s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,27-01-2024 18:59:58,27-01-2024 18:59:59,0.785s,PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,27-01-2024 18:59:59,27-01-2024 18:59:59,0.130s,PASSED
+"navigateToUrl(""https://www.facebook.com/"")",Chrome 120.0.0.0,,,27-01-2024 18:59:59,27-01-2024 19:00:00,1.300s,PASSED
+"setText(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/input_email""), ""mkrajput1524@gmail.com"")",Chrome 120.0.0.0,,,27-01-2024 19:00:00,27-01-2024 19:00:01,0.899s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/input_pass""), ""1AmIDvstrhuOMOvwahdcoA=="")",Chrome 120.0.0.0,,,27-01-2024 19:00:01,27-01-2024 19:00:02,0.726s,PASSED
+"click(findTestObject(""Object Repository/Facebook Login/Page_Facebook  log in or sign up/button_Log in""))",Chrome 120.0.0.0,,,27-01-2024 19:00:02,27-01-2024 19:00:34,32.447s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,27-01-2024 19:00:34,27-01-2024 19:00:34,0.308s,PASSED
+,,,,,,,
+Test Cases/SH compass login invalid input,Chrome 120.0.0.0,,,27-01-2024 19:01:22,27-01-2024 19:01:38,16.179s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,27-01-2024 19:01:22,27-01-2024 19:01:23,1.033s,PASSED
+"navigateToUrl(""https://compass.lifeisgoodforlearner.com/login"")",Chrome 120.0.0.0,,,27-01-2024 19:01:23,27-01-2024 19:01:33,9.976s,PASSED
+"setText(findTestObject(""Object Repository/SH/Page_Login/input_email""), ""kuldip@qable.io"")",Chrome 120.0.0.0,,,27-01-2024 19:01:33,27-01-2024 19:01:35,2.054s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/SH/Page_Login/input_password""), ""k/dMEb2tLSs="")",Chrome 120.0.0.0,,,27-01-2024 19:01:35,27-01-2024 19:01:36,0.672s,PASSED
+"click(findTestObject(""Object Repository/SH/Page_Login/span_Login""))",Chrome 120.0.0.0,,,27-01-2024 19:01:36,27-01-2024 19:01:36,0.684s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/SH/Page_Login/label_Invalid username or password""), 0)",Chrome 120.0.0.0,,,27-01-2024 19:01:36,27-01-2024 19:01:38,1.386s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,27-01-2024 19:01:38,27-01-2024 19:01:38,0.364s,PASSED
+,,,,,,,
+Test Cases/SH compass login invalid input 2,Chrome 120.0.0.0,,,27-01-2024 19:01:38,27-01-2024 19:01:51,13.141s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,27-01-2024 19:01:38,27-01-2024 19:01:39,0.786s,PASSED
+"navigateToUrl(""https://compass.lifeisgoodforlearner.com/login"")",Chrome 120.0.0.0,,,27-01-2024 19:01:39,27-01-2024 19:01:46,7.384s,PASSED
+"setText(findTestObject(""Object Repository/SH/Page_Login/input_email""), ""Abcd@gmail.com"")",Chrome 120.0.0.0,,,27-01-2024 19:01:46,27-01-2024 19:01:49,2.313s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/SH/Page_Login/input_password""), ""GTlPq8sqzIAVcUdIXgqPeg=="")",Chrome 120.0.0.0,,,27-01-2024 19:01:49,27-01-2024 19:01:49,0.620s,PASSED
+"click(findTestObject(""Object Repository/SH/Page_Login/button_Login""))",Chrome 120.0.0.0,,,27-01-2024 19:01:49,27-01-2024 19:01:50,0.527s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/SH/Page_Login/label_Invalid username or password""), 2)",Chrome 120.0.0.0,,,27-01-2024 19:01:50,27-01-2024 19:01:51,1.173s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,27-01-2024 19:01:51,27-01-2024 19:01:51,0.289s,PASSED
+,,,,,,,
+Test Cases/SH compass invalid input 3,Chrome 120.0.0.0,,,27-01-2024 19:01:51,27-01-2024 19:02:04,12.874s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,27-01-2024 19:01:51,27-01-2024 19:01:52,0.898s,PASSED
+"navigateToUrl(""https://compass.lifeisgoodforlearner.com/login"")",Chrome 120.0.0.0,,,27-01-2024 19:01:52,27-01-2024 19:02:00,7.708s,PASSED
+"setText(findTestObject(""Object Repository/SH/Page_Login/input_email""), ""abc@qable.io"")",Chrome 120.0.0.0,,,27-01-2024 19:02:00,27-01-2024 19:02:02,1.767s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/SH/Page_Login/input_password""), ""lNM7HWdaUFb2mB8TheEOqw=="")",Chrome 120.0.0.0,,,27-01-2024 19:02:02,27-01-2024 19:02:02,0.531s,PASSED
+"click(findTestObject(""Object Repository/SH/Page_Login/button_Login""))",Chrome 120.0.0.0,,,27-01-2024 19:02:02,27-01-2024 19:02:03,0.575s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/SH/Page_Login/label_Invalid username or password""), 5)",Chrome 120.0.0.0,,,27-01-2024 19:02:03,27-01-2024 19:02:04,1.078s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,27-01-2024 19:02:04,27-01-2024 19:02:04,0.264s,PASSED
+,,,,,,,
+Test Cases/Orange HRM LOGIN INVALID INPUT,Chrome 120.0.0.0,,,27-01-2024 19:02:04,27-01-2024 19:02:14,9.973s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,27-01-2024 19:02:04,27-01-2024 19:02:05,1.059s,PASSED
+"navigateToUrl(""https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"")",Chrome 120.0.0.0,,,27-01-2024 19:02:05,27-01-2024 19:02:12,6.656s,PASSED
+"click(findTestObject(""Object Repository/Orange HRM invalid input/Page_OrangeHRM/input_username""))",Chrome 120.0.0.0,,,27-01-2024 19:02:12,27-01-2024 19:02:13,1.182s,PASSED
+"click(findTestObject(""Object Repository/Orange HRM invalid input/Page_OrangeHRM/button_Login""))",Chrome 120.0.0.0,,,27-01-2024 19:02:13,27-01-2024 19:02:13,0.306s,PASSED
+"verifyElementPresent(findTestObject(""Orange HRM invalid input/Page_OrangeHRM/span_Required""), 3)",Chrome 120.0.0.0,,,27-01-2024 19:02:13,27-01-2024 19:02:14,0.445s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,27-01-2024 19:02:14,27-01-2024 19:02:14,0.266s,PASSED
+,,,,,,,
+Test Cases/Orange HRM login valid input,Chrome 120.0.0.0,,,27-01-2024 19:02:14,27-01-2024 19:02:21,6.632s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,27-01-2024 19:02:14,27-01-2024 19:02:15,0.809s,PASSED
+"navigateToUrl(""https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"")",Chrome 120.0.0.0,,,27-01-2024 19:02:15,27-01-2024 19:02:18,3.065s,PASSED
+"click(findTestObject(""Object Repository/Orange HRM login valid input/Page_OrangeHRM/p_Username  Admin""))",Chrome 120.0.0.0,,,27-01-2024 19:02:18,27-01-2024 19:02:19,0.900s,PASSED
+"setText(findTestObject(""Object Repository/Orange HRM login valid input/Page_OrangeHRM/input_username""), ""Admin"")",Chrome 120.0.0.0,,,27-01-2024 19:02:19,27-01-2024 19:02:20,0.728s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Orange HRM login valid input/Page_OrangeHRM/input_password""), ""hUKwJTbofgPU9eVlw/CnDQ=="")",Chrome 120.0.0.0,,,27-01-2024 19:02:20,27-01-2024 19:02:20,0.409s,PASSED
+"click(findTestObject(""Object Repository/Orange HRM login valid input/Page_OrangeHRM/button_Login""))",Chrome 120.0.0.0,,,27-01-2024 19:02:20,27-01-2024 19:02:20,0.330s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,27-01-2024 19:02:20,27-01-2024 19:02:21,0.336s,PASSED

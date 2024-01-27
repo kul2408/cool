@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Hotels</name>
+   <tag></tag>
+   <elementGuidId>f00b3fa6-15f3-4248-9b29-7a11092da0c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cscroll']/div/div[2]/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>81f03493-a09c-44d7-a9c4-88da08fb554c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-labelBlack</value>
+      <webElementGuid>8a2f2e03-9f68-46eb-9dc1-d7cdc1b4450f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hotels</value>
+      <webElementGuid>3b715e92-7599-4c6a-a496-d992e7f80c4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cscroll&quot;)/div[@class=&quot;jss141&quot;]/div[@class=&quot;MuiChip-root jss207 jss154 jss154 MuiChip-clickable&quot;]/span[@class=&quot;MuiChip-label&quot;]/span[@class=&quot;MuiTypography-root MuiTypography-labelBlack&quot;]</value>
+      <webElementGuid>42ed96d2-2674-40c0-b1e1-5ef4d874cb72</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cscroll']/div/div[2]/span/span</value>
+      <webElementGuid>e8630649-cfe8-43d1-8637-385f0bbf8a1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/span</value>
+      <webElementGuid>ffd3d9d7-715a-4857-8148-f9b0f89a5c0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Hotels' or . = 'Hotels')]</value>
+      <webElementGuid>f9bbe8de-1851-4d29-b16f-d0d0ac9994f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

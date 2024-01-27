@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_aayenge to angana sajaungi</name>
+   <tag></tag>
+   <elementGuidId>62aa9fc4-f2e1-4194-811b-a4bf730664a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sbse0']/div[2]/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>2ec1a397-558f-4cf4-8662-9b59db8b2ee0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>aayenge to angana sajaungi</value>
+      <webElementGuid>d472c6cf-83e7-4c93-af70-c29d4a0fa113</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sbse0&quot;)/div[@class=&quot;sbqs_c&quot;]/b[1]</value>
+      <webElementGuid>423853aa-99f9-4b22-9368-54e711127de6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sbse0']/div[2]/b</value>
+      <webElementGuid>667dc711-c302-4ff8-b834-46a4d01a260d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>7cc4d878-bdec-4800-8e56-1018b53f6008</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'aayenge to angana sajaungi' or . = 'aayenge to angana sajaungi')]</value>
+      <webElementGuid>501ce59f-ee4a-4d61-b2c9-9c8ae9edb784</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

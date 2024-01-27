@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_MuiButton-endIcon MuiButton-iconSizeSmall</name>
+   <tag></tag>
+   <elementGuidId>25245379-d032-4884-9ef2-dcc6aab3c552</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.MuiButtonBase-root.MuiButton-root.jss79.jss81.jss523.false.MuiButton-text.MuiButton-textPrimary.MuiButton-textSizeSmall.MuiButton-sizeSmall > span.MuiButton-label > span.MuiButton-endIcon.MuiButton-iconSizeSmall</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[6]/div/div[2]/section/div/div/div/div/div[2]/a/span/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fa86a74e-d15a-433e-a736-4a474d7deaed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButton-endIcon MuiButton-iconSizeSmall</value>
+      <webElementGuid>113ff0ef-d6ec-492c-9939-64f71b5a2e95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss7&quot;]/div[@class=&quot;main-comp comp-5&quot;]/div[@class=&quot;jss333 jss334&quot;]/div[@class=&quot;MuiBox-root jss521 jss258 jss519 isEventCarousel&quot;]/section[@class=&quot;MuiContainer-root&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthXl jss261&quot;]/div[@class=&quot;MuiBox-root jss522 jss262 jss263 jss520&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-root&quot;]/div[@class=&quot;jss260 alignment-type3description jss265 collage-description&quot;]/div[@class=&quot;jss218&quot;]/a[@class=&quot;sitecorelink jss52 jss529&quot;]/span[@class=&quot;MuiButtonBase-root MuiButton-root jss79  jss81 jss523 false   MuiButton-text MuiButton-textPrimary MuiButton-textSizeSmall MuiButton-sizeSmall&quot;]/span[@class=&quot;MuiButton-label&quot;]/span[@class=&quot;MuiButton-endIcon MuiButton-iconSizeSmall&quot;]</value>
+      <webElementGuid>24b8e08c-3872-49fa-a102-862eca0ec8ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[6]/div/div[2]/section/div/div/div/div/div[2]/a/span/span/span</value>
+      <webElementGuid>c01fd52f-a3e4-4ae2-b098-11a2be86dd85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/a/span/span/span</value>
+      <webElementGuid>6ff5b9c2-86bb-4c79-ae9e-07649d7e005e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

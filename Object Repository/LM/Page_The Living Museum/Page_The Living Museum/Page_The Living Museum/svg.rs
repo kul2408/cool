@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>3f798fde-7c7c-400c-a284-51110e541a5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.menu-dropdown > span > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>f52350ff-7d40-4756-9db8-144c9c2de813</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 12 8</value>
+      <webElementGuid>2727d93f-d787-4286-b4f2-d96a3769a2e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>60dd6c2f-6f33-44be-a93e-83241155f93a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>04050783-8899-4966-b2ae-04b7d46baeee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;theme-header&quot;)/div[@class=&quot;header&quot;]/div[@class=&quot;header--wrapper max-container&quot;]/div[@class=&quot;menu-wrapper&quot;]/div[@class=&quot;main-menu&quot;]/ul[@class=&quot;main-menu-list&quot;]/li[@class=&quot;list-item art-dropdown&quot;]/div[@class=&quot;menu-dropdown&quot;]/span[1]/svg[1]</value>
+      <webElementGuid>046e4d1f-3251-4099-8ada-e843903e2679</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

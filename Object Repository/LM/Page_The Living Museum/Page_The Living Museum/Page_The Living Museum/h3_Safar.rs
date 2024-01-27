@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Safar</name>
+   <tag></tag>
+   <elementGuidId>c6d3913a-788b-48c3-bd54-638195d96fc2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.heading3.white</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/section[2]/div[2]/div/div/div/div/div/div/div/a/div[2]/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>7d078f47-71ea-433a-9b39-a9d4fcc00dd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>heading3 white</value>
+      <webElementGuid>e64d1375-7d47-480a-a47a-fc60d435797b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Safar</value>
+      <webElementGuid>d4fa330b-a305-49e8-8ba2-e2c6d0e9ca2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;fouc-handle home--wrapper bgPattern sty2 fouc-ready&quot;]/div[@class=&quot;home--wrapper__inner&quot;]/section[@class=&quot;sec-HappeningInAlUla sec-padded max-container&quot;]/div[@class=&quot;home--slider line-pattern&quot;]/div[@class=&quot;container container--custom&quot;]/div[@class=&quot;slider--wrapper&quot;]/div[@class=&quot;slick-slider slick-initialized&quot;]/div[@class=&quot;slick-list&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-active slick-current&quot;]/div[1]/a[@class=&quot;post-box&quot;]/div[@class=&quot;post-content&quot;]/div[@class=&quot;post-detail&quot;]/h3[@class=&quot;heading3 white&quot;]</value>
+      <webElementGuid>252b411f-89bd-4874-acd5-d29cfc4f218c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/section[2]/div[2]/div/div/div/div/div/div/div/a/div[2]/div/h3</value>
+      <webElementGuid>4d1e8a6b-8a28-4a40-8360-e88bcca4eb0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/h3</value>
+      <webElementGuid>5fcecacc-ed56-4871-b704-db1ca56550b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Safar' or . = 'Safar')]</value>
+      <webElementGuid>dbd51204-1fb5-46ad-8485-abe9bbb92da4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

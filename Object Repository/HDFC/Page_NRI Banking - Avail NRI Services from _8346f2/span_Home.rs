@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Home</name>
+   <tag></tag>
+   <elementGuidId>d017f31f-b37f-4d43-b15e-7ec1098b5597</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#web > a > span.menus-heading</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='web']/a/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>39994b53-adcc-4a55-986b-7fe33f9a9841</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menus-heading</value>
+      <webElementGuid>71b0f0ad-b06f-4861-8619-adebe18bf5d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Home</value>
+      <webElementGuid>68b9ce61-cf0d-4bc4-8b9c-b92ca6f53d4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;lp-page-children bp-area --area&quot;]/div[@class=&quot;bp-container bp-ui-dragRoot bp-manageableArea --area bp-area&quot;]/div[@class=&quot;bp-widget bp-ui-dragRoot&quot;]/div[@class=&quot;bp-widget-body ng-scope&quot;]/div[1]/div[@class=&quot;bp-g-model&quot;]/div[@class=&quot;quick-navbar middle-quick-menus middle-menus navbar-available&quot;]/div[@class=&quot;row full-width-bg ng-scope&quot;]/div[@class=&quot;lp-navbar-advanced container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;middle-menu-bar navbar navbar-inverse navbar-static-top lp--scroll&quot;]/div[1]/div[@class=&quot;navbar-collapse collapse&quot;]/ul[@class=&quot;nav navbar-nav lp-navbar-advanced-root nri-navbar&quot;]/li[@id=&quot;web&quot;]/a[1]/span[@class=&quot;menus-heading&quot;]</value>
+      <webElementGuid>b5eff371-c87e-405c-b9dd-397fbd0045ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='web']/a/span[2]</value>
+      <webElementGuid>ab77431b-efbf-437a-81cb-b3b80a876efc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div/div/div[2]/ul/li/a/span[2]</value>
+      <webElementGuid>f26e78b5-45b5-45d8-a244-7b40c48f1a4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Home' or . = 'Home')]</value>
+      <webElementGuid>d9c6b9a1-1764-4b23-b3db-8f40958b23e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

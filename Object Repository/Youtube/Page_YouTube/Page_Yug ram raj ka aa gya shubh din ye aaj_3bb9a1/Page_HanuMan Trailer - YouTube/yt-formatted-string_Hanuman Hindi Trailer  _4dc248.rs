@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>yt-formatted-string_Hanuman Hindi Trailer  _4dc248</name>
+   <tag></tag>
+   <elementGuidId>47fd35e0-9ad3-4b9f-b6f2-deee18a376c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>yt-formatted-string.style-scope.ytd-video-renderer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='video-title']/yt-formatted-string</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>yt-formatted-string</value>
+      <webElementGuid>b8a437d9-d91c-46b8-9935-4ed97e0d302a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style-scope ytd-video-renderer</value>
+      <webElementGuid>9d134212-72b7-4566-8dce-18886c8b487f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Hanuman Hindi Trailer | In Cinemas 12th Jan, 2024 | Prasanth Varma | Teja Sajja | RKD Studios by RKD Studios 35,316,259 views 1 month ago 3 minutes, 32 seconds</value>
+      <webElementGuid>d007beb3-2d12-41ce-aca9-b13b17de177d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hanuman Hindi Trailer | In Cinemas 12th Jan, 2024 | Prasanth Varma | Teja Sajja | RKD Studios</value>
+      <webElementGuid>68ac1808-0b3a-4c6b-a4be-9eb9091ac1a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-manager&quot;)/ytd-search[@class=&quot;style-scope ytd-page-manager&quot;]/div[@id=&quot;container&quot;]/ytd-two-column-search-results-renderer[@class=&quot;style-scope ytd-search&quot;]/div[@id=&quot;primary&quot;]/ytd-section-list-renderer[@class=&quot;style-scope ytd-two-column-search-results-renderer&quot;]/div[@id=&quot;contents&quot;]/ytd-item-section-renderer[@class=&quot;style-scope ytd-section-list-renderer&quot;]/div[@id=&quot;contents&quot;]/ytd-video-renderer[@class=&quot;style-scope ytd-item-section-renderer&quot;]/div[@id=&quot;dismissible&quot;]/div[@class=&quot;text-wrapper style-scope ytd-video-renderer&quot;]/div[@id=&quot;meta&quot;]/div[@id=&quot;title-wrapper&quot;]/h3[@class=&quot;title-and-badge style-scope ytd-video-renderer&quot;]/a[@id=&quot;video-title&quot;]/yt-formatted-string[@class=&quot;style-scope ytd-video-renderer&quot;]</value>
+      <webElementGuid>45955bfc-87f6-420d-8eb2-705dd010a120</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='video-title']/yt-formatted-string</value>
+      <webElementGuid>0cc84c67-8682-456c-8074-15b30ed1ed35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/h3/a/yt-formatted-string</value>
+      <webElementGuid>de5c22d0-5b90-49c3-aac5-11ba7a7d0979</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//yt-formatted-string[(text() = 'Hanuman Hindi Trailer | In Cinemas 12th Jan, 2024 | Prasanth Varma | Teja Sajja | RKD Studios' or . = 'Hanuman Hindi Trailer | In Cinemas 12th Jan, 2024 | Prasanth Varma | Teja Sajja | RKD Studios')]</value>
+      <webElementGuid>899a3cb8-f063-40a6-a5a3-2a5923b046a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

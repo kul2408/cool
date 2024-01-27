@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add to Cart</name>
+   <tag></tag>
+   <elementGuidId>943b8eec-a535-4450-aab0-dcc25c9ea87d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@id='submit.add-to-cart'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8fac5ef0-8b84-4c35-a642-d14d3fd21c3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>submit.add-to-cart</value>
+      <webElementGuid>6671832e-d30f-4619-af5b-8c3806b0eed8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-button a-spacing-small a-button-primary a-button-icon natc-enabled</value>
+      <webElementGuid>6d261b55-1428-4a92-951e-114f3a3b811c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to Cart</value>
+      <webElementGuid>0d1f88a4-f6d5-4fef-916d-18da95f4c935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;desktop_qualifiedBuyBox&quot;)/div[@class=&quot;a-section a-spacing-none a-padding-none&quot;]/div[@id=&quot;addToCart_feature_div&quot;]/div[@class=&quot;a-button-stack&quot;]/span[@id=&quot;atc-declarative&quot;]/span[@id=&quot;submit.add-to-cart&quot;]</value>
+      <webElementGuid>abc643fe-8f58-49e6-beba-722116c1347e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//span[@id='submit.add-to-cart'])[2]</value>
+      <webElementGuid>0ebfb7bb-5a2c-4977-9097-774cdd65c729</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//span[@id='atc-declarative']/span)[2]</value>
+      <webElementGuid>0b43e39f-14c2-488c-89bd-c0e15cda783c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[39]/div/span/span</value>
+      <webElementGuid>adbc5399-cbb3-4347-a2dd-cc5a5197c514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'submit.add-to-cart' and (text() = 'Add to Cart' or . = 'Add to Cart')]</value>
+      <webElementGuid>923551aa-5c3d-427a-9ad8-a41311f4ae90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

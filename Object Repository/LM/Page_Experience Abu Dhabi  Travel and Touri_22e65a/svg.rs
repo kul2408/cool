@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>1b2940a8-7cc7-441d-85d7-96da88889df6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiIconButton-root.undefined.jss36.jss39.map-icon > span.MuiIconButton-label > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>cf60f6f9-e653-48c7-834c-6e5ab836e7e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>4a2552e2-bf3f-45a5-a75c-0128030cc800</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xlink</name>
+      <type>Main</type>
+      <value>http://www.w3.org/1999/xlink</value>
+      <webElementGuid>0cba74b4-20eb-4fdd-8ce1-889cbb7a6bbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>version</name>
+      <type>Main</type>
+      <value>1.1</value>
+      <webElementGuid>708251e3-9722-47a9-bbb5-40d172059332</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 26 26</value>
+      <webElementGuid>e46d07cb-6683-4b31-966b-31df0128d546</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;header-banner jss8&quot;]/section[@class=&quot;MuiContainer-root&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthXl jss25&quot;]/header[@class=&quot;MuiPaper-root MuiAppBar-root jss21 false is-transparent MuiAppBar-positionAbsolute MuiAppBar-colorTransparent MuiPaper-elevation0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-root jss17&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-root jss17 jss19 MuiGrid-container MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-align-items-xs-center&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-root jss46 MuiGrid-item MuiGrid-item MuiGrid-grid-sm-10 MuiGrid-grid-sm-10&quot;]/div[@class=&quot;jss32&quot;]/div[@class=&quot;jss35&quot;]/a[@class=&quot;sitecorelink jss52 jss97 mapLink&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root undefined jss36 jss39 map-icon&quot;]/span[@class=&quot;MuiIconButton-label&quot;]/svg[1]</value>
+      <webElementGuid>89e0fbfb-d5f6-4791-84fe-444b11462207</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

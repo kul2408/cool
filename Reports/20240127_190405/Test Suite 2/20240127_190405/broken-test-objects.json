@@ -1,0 +1,94 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/button_Log in",
+      "brokenLocator": "//button[@id\u003d\u0027u_0_5_Uk\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240127_190405/Test Suite 2/20240127_190405/Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/button_Log in_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Facebook  log in or sign up/Page_(13) Facebook/span_Confirm",
+      "brokenLocator": "//div[@id\u003d\u0027mount_0_0_ge\u0027]/div/div/div/div[3]/div/div/div/div/div/div[3]/div/div/div/div/div/div/div[2]/div/div/a/div/div[2]/div/div[2]/div/div/div/div/div/div/div/span/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div/div/div/div/div/div/div/span/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240127_190405/Test Suite 2/20240127_190405/Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Facebook  log in or sign up/Page_(13) Facebook/span_Confirm_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Log in to Facebook/Page_Log in to Facebook/Page_Facebook  log in or sign up/button_Log in",
+      "brokenLocator": "//button[@id\u003d\u0027u_0_5_C0\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240127_190405/Test Suite 2/20240127_190405/Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Log in to Facebook/Page_Log in to Facebook/Page_Facebook  log in or sign up/button_Log in_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Log in to Facebook/Page_Log in to Facebook/Page_(5) Facebook/svg_x19dipnz x1lliihq x1k90msu x2h7rmj x1qfuztq",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "div.x1i10hfl.x6umtig.x1b1mbwd.xaqea5y.xav7gou.x1ypdohk.xe8uvvx.xdj266r.x11i5rnm.xat24cr.x1mh8g0r.x16tdsg8.x1hl2dhg.xggy1nq.x87ps6o.x1lku1pv.x1a2a7pz.x6s0dn4.x14yjl9h.xudhj91.x18nykt9.xww2gxu.x972fbf.xcfux6l.x1qhh985.xm0m39n.x9f619.x78zum5.xl56j7k.xexx8yu.x4uap5.x18d9i69.xkhd6sd.x1n2onr6.xsdox4t.x1useyqa.x9bbmet.x1k54i6l.xi81zsa \u003e svg.x19dipnz.x1lliihq.x1k90msu.x2h7rmj.x1qfuztq",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/20240127_190405/Test Suite 2/20240127_190405/Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Log in to Facebook/Page_Log in to Facebook/Page_(5) Facebook/svg_x19dipnz x1lliihq x1k90msu x2h7rmj x1qfuztq_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Facebook  log in or sign up/button_Log in",
+      "brokenLocator": "//button[@id\u003d\u0027u_0_5_0g\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240127_190405/Test Suite 2/20240127_190405/Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_Facebook  log in or sign up/button_Log in_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_(7) Facebook/div_x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5yt_217c05",
+      "brokenLocator": "//div[@id\u003d\u0027mount_0_0_AE\u0027]/div/div/div/div[3]/div/div/div/div/div/div[2]/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div[2]/div/div/div/a/div/div/div[2]/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div/div/div/a/div/div/div[2]/div/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240127_190405/Test Suite 2/20240127_190405/Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_(7) Facebook/div_x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5yt_217c05_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_(7) Facebook/div_x1i10hfl x6umtig x1b1mbwd xaqea5y xav7g_d32c55",
+      "brokenLocator": "//div[@id\u003d\u0027mount_0_0_AE\u0027]/div/div/div/div[2]/div/div/span/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240127_190405/Test Suite 2/20240127_190405/Object Repository/Facebook Login/Page_Facebook  log in or sign up/Page_Facebook  log in or sign up/Page_Log in to Facebook/Page_(7) Facebook/div_x1i10hfl x6umtig x1b1mbwd xaqea5y xav7g_d32c55_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/LM/Page_The Living Museum/Page_The Living Museum/svg",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "svg",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/20240127_190405/Test Suite 2/20240127_190405/Object Repository/LM/Page_The Living Museum/Page_The Living Museum/svg_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Google search/Page_Google/svg_Gdd5U",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "svg.Gdd5U",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/20240127_190405/Test Suite 2/20240127_190405/Object Repository/Google search/Page_Google/svg_Gdd5U_CSS.png"
+    }
+  ]
+}
